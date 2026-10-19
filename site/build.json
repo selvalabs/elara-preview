@@ -1,0 +1,559 @@
+{
+  "buildId": "build-1792438997409",
+  "mode": "preview",
+  "branch": "fix/15-palette-assets-motion",
+  "commit": "7d07cdc375d21ae7dde77d00ff25125377d76c11",
+  "dirty": false,
+  "createdAt": "2026-10-19T19:43:18.269Z",
+  "sourceImageBytes": 24097308,
+  "files": {
+    "assets/images/mandala-dourada-luz-160-36deca451a.webp": {
+      "bytes": 19660,
+      "sha256": "36deca451a1ba63e3e565a0289794277687f8511afb6b32b690fa87e2e059231"
+    },
+    "assets/images/mandala-dourada-luz-160-b757984a75.avif": {
+      "bytes": 11781,
+      "sha256": "b757984a7501297890398956fa5276eeaa869ef329bc818bc628bd70dbbb5afc"
+    },
+    "assets/images/mandala-dourada-luz-360-992718903a.webp": {
+      "bytes": 82174,
+      "sha256": "992718903adf4d9b790fcc817dee61ba6007162b0caf81dc63317a7d80247e36"
+    },
+    "assets/images/mandala-dourada-luz-360-73ca8bb2d6.avif": {
+      "bytes": 42413,
+      "sha256": "73ca8bb2d639fd3552aebd72cc5e4d0dcb26214785c530f3e1e5d45834cc785e"
+    },
+    "assets/images/mandala-dourada-luz-640-de67c3e831.webp": {
+      "bytes": 220142,
+      "sha256": "de67c3e831b82683bb4d14353a7d3e7d9e37a974bcafbe7512e6ab265de47081"
+    },
+    "assets/images/mandala-dourada-luz-640-02922cb9c5.avif": {
+      "bytes": 103918,
+      "sha256": "02922cb9c52a6c130f24ec42555ced72f0480aa11fc22629747053dcf9dadae4"
+    },
+    "assets/images/mandala-dourada-luz-960-4df7ebac67.webp": {
+      "bytes": 435780,
+      "sha256": "4df7ebac67c4c08f3c881692c72a183c2fef35c498d12971a32d21a73d37e33a"
+    },
+    "assets/images/mandala-dourada-luz-960-e993d4404d.avif": {
+      "bytes": 183788,
+      "sha256": "e993d4404ddec2a25508aef11cdd4d4e2eb76283412f121f0c9c4bdc8c0429f1"
+    },
+    "assets/images/mandala-dourada-luz-1024-ecfe406361.webp": {
+      "bytes": 467686,
+      "sha256": "ecfe4063616a7d9355e5c8b7f1c1dee50cf067bef956c38f95b42d190da2b2eb"
+    },
+    "assets/images/mandala-dourada-luz-1024-805b62e9d9.avif": {
+      "bytes": 220244,
+      "sha256": "805b62e9d96eaeb00ad4b8ef821dda4c7d45371bf9d0b0ff91f2d1958223f323"
+    },
+    "assets/images/alejandra-vestido-vermelho-rosa-160-43747c453f.webp": {
+      "bytes": 9574,
+      "sha256": "43747c453f6727b202f77bae2ad68a4e9585e2127d9a6cfdb5cfa70cb0b4bd38"
+    },
+    "assets/images/alejandra-vestido-vermelho-rosa-360-c4b2926536.webp": {
+      "bytes": 29368,
+      "sha256": "c4b2926536ced5e6c67c4c8c29d8061d3a61d8cc0da3b056d499d8b558728dab"
+    },
+    "assets/images/alejandra-vestido-vermelho-rosa-640-270876c128.webp": {
+      "bytes": 67396,
+      "sha256": "270876c128924d0d350d66bc994fe49bcf74355deb4c82c6dee3daed6f05a2a0"
+    },
+    "assets/images/alejandra-vestido-vermelho-rosa-768-b7546ae29b.webp": {
+      "bytes": 86798,
+      "sha256": "b7546ae29bd968034842dcd7a551d6de5092de090ffa6bc635f5cb2cff9190ca"
+    },
+    "assets/images/divisor-ouro-elara-160-b37d7d8804.webp": {
+      "bytes": 2046,
+      "sha256": "b37d7d8804cabdc0203ece083adc66c37afe31a07cbc4bd9fbc447e25eb3fe7d"
+    },
+    "assets/images/divisor-ouro-elara-360-4ecc4f381b.webp": {
+      "bytes": 5980,
+      "sha256": "4ecc4f381bdb67cc50416856bb724ca3fb74d2b0f3e64ca52ecba403b25af4be"
+    },
+    "assets/images/divisor-ouro-elara-640-3459051be6.webp": {
+      "bytes": 15004,
+      "sha256": "3459051be6533202bb38ff996164a4a81bc4bf675d6ba36e899d3689000a7368"
+    },
+    "assets/images/divisor-ouro-elara-960-5e2342ef3d.webp": {
+      "bytes": 27456,
+      "sha256": "5e2342ef3d12d1aeedf8fba79bc3e6c6193c0041c0eb619dda419677144cfe33"
+    },
+    "assets/images/divisor-ouro-elara-977-0c361461b0.webp": {
+      "bytes": 24754,
+      "sha256": "0c361461b0ed879606ea8dd9c4e5f127b7025b49855f97d128f958985e07d132"
+    },
+    "assets/images/alejandra-mao-rosa-160-f649e23c4e.webp": {
+      "bytes": 3182,
+      "sha256": "f649e23c4ec54b4be8058cd3051023dcc811c91c483f090b7b5b77d9e0ef2208"
+    },
+    "assets/images/alejandra-mao-rosa-360-ba28cded3f.webp": {
+      "bytes": 8642,
+      "sha256": "ba28cded3f6968d84c96f2ac4f7ec927d82e48433dcbf03c7b904d09aa765b12"
+    },
+    "assets/images/alejandra-mao-rosa-640-fc8e6fa743.webp": {
+      "bytes": 17044,
+      "sha256": "fc8e6fa7437f2deb4f05f9bfa56323ec1a0cf55c55e4db2c86e576070c1299a0"
+    },
+    "assets/images/alejandra-mao-rosa-960-55cb2c37bd.webp": {
+      "bytes": 27180,
+      "sha256": "55cb2c37bd86d2c28761cad280fe53beed047328643591e92c409a16254964dc"
+    },
+    "assets/images/alejandra-mao-rosa-1024-e5f6f996c9.webp": {
+      "bytes": 29486,
+      "sha256": "e5f6f996c91e2a3076fc7508a76d4c5d94beb5da696258be438fb8cc4fa2e71e"
+    },
+    "assets/images/kit-florais-detalhe-azul-160-39e99c8322.webp": {
+      "bytes": 10076,
+      "sha256": "39e99c8322c0bcc29c6004978c5d301ac8eb9f964c4bc10166294f3b726b6453"
+    },
+    "assets/images/kit-florais-detalhe-azul-360-c7e9507ecb.webp": {
+      "bytes": 32818,
+      "sha256": "c7e9507ecb78c4fa41c0bc7cb67c3d415632d08daf361798777764e892b98ed4"
+    },
+    "assets/images/kit-florais-detalhe-azul-640-c61b283206.webp": {
+      "bytes": 69962,
+      "sha256": "c61b283206df8a810d9f58893bd4427f0aca0f05c93dd3f1e5b8e19839463ae9"
+    },
+    "assets/images/kit-florais-detalhe-azul-768-5f614c99a2.webp": {
+      "bytes": 89622,
+      "sha256": "5f614c99a22fa50bd1e4804b4dc46e9b883975bb12d580b7ccd3591988590965"
+    },
+    "assets/images/alejandra-olhar-horizonte-160-36a798bc56.webp": {
+      "bytes": 6438,
+      "sha256": "36a798bc569a1b83e50910d4f77baef1f2ead5cab657d4d4c091cc9ef08c5350"
+    },
+    "assets/images/alejandra-olhar-horizonte-360-a539d64702.webp": {
+      "bytes": 21198,
+      "sha256": "a539d6470260bab2c536136102ea316c461eaf0804a3584c66dd9808615df93e"
+    },
+    "assets/images/alejandra-olhar-horizonte-640-52db377659.webp": {
+      "bytes": 49100,
+      "sha256": "52db377659f60f9121053bc06d3990dd5b804b611991754ff015fa74236e18b6"
+    },
+    "assets/images/alejandra-olhar-horizonte-723-a3fbd717c8.webp": {
+      "bytes": 60756,
+      "sha256": "a3fbd717c8713a0a0fab3a539a8563f67dd6ab6a12752caa26bbbd3db6ae3686"
+    },
+    "assets/images/alejandra-oracao-tapete-160-0d6ff147e8.webp": {
+      "bytes": 3488,
+      "sha256": "0d6ff147e875c8f247af385421dfe1dd1c229e78ac6ddf3a3bc8cf87954c0ba0"
+    },
+    "assets/images/alejandra-oracao-tapete-360-06a3788ec1.webp": {
+      "bytes": 13010,
+      "sha256": "06a3788ec17e5f410f74cf924c1d228f44acd1e55a6c9ed119376c0b70aea2c2"
+    },
+    "assets/images/alejandra-oracao-tapete-640-e6f4633305.webp": {
+      "bytes": 30842,
+      "sha256": "e6f4633305b48ab5cc5e5a81b9d90db3d151231befcde161f8f5a6df45d3d273"
+    },
+    "assets/images/alejandra-oracao-tapete-960-0ea34b750f.webp": {
+      "bytes": 54130,
+      "sha256": "0ea34b750f9f981bb8fb08ec8ae96713e3a989573267141e8b9a3549abf4fe71"
+    },
+    "assets/images/alejandra-oracao-tapete-1024-1ea959aa2c.webp": {
+      "bytes": 60430,
+      "sha256": "1ea959aa2cd10240754d6fdd439770548d6d00d5db36ed737cc12909e9bb17f4"
+    },
+    "assets/images/kit-florais-luz-solar-160-8e6fd8ff8f.webp": {
+      "bytes": 6690,
+      "sha256": "8e6fd8ff8fae66c352a72ac7d0950391677321bb32b5cac6dfda5da157b3ee05"
+    },
+    "assets/images/kit-florais-luz-solar-360-e9fbe25014.webp": {
+      "bytes": 25060,
+      "sha256": "e9fbe25014d7150dbe95e251bdc09c2953bfdb64dd741188d6a8a7e5d634c0b3"
+    },
+    "assets/images/kit-florais-luz-solar-640-fb3b9950e1.webp": {
+      "bytes": 60074,
+      "sha256": "fb3b9950e18970d97b8d015a965f50d58bae1de8f190bdf4b08aa1425fbae3a2"
+    },
+    "assets/images/kit-florais-luz-solar-960-a5d4c20020.webp": {
+      "bytes": 103456,
+      "sha256": "a5d4c2002027f2ac0aff0ae2add5807aff635fd9fbce0501d3b67502fd0da925"
+    },
+    "assets/images/kit-florais-luz-solar-1024-f9fbed05e5.webp": {
+      "bytes": 114836,
+      "sha256": "f9fbed05e5df7e7b4d4999501ab7cb2b57d5f18bc674aa1119f99607691f1b8d"
+    },
+    "assets/images/alejandra-retrato-areia-160-d4cc24cc74.webp": {
+      "bytes": 6608,
+      "sha256": "d4cc24cc74b48aec5f68bff3c12b97ecbe89efcd704bb4ead1282153e609cb14"
+    },
+    "assets/images/alejandra-retrato-areia-360-a9fcd511c4.webp": {
+      "bytes": 20472,
+      "sha256": "a9fcd511c4dda3639c95263ffa6c163d6019a5b4302f42a35f1f8ec4a2593c07"
+    },
+    "assets/images/alejandra-retrato-areia-640-4b13f8f35b.webp": {
+      "bytes": 46062,
+      "sha256": "4b13f8f35b8a7d619768aafe0b3ec088d62dc72ae89b5144b68794e5bd7fde7c"
+    },
+    "assets/images/alejandra-retrato-areia-723-dbfc2241c4.webp": {
+      "bytes": 56076,
+      "sha256": "dbfc2241c45d6182f86cd300ae93877b67adba739a8500a87e62c8c50b2e0db0"
+    },
+    "assets/images/alejandra-silhueta-danca-160-37d790b806.webp": {
+      "bytes": 1870,
+      "sha256": "37d790b80670c5c6ee554748212f3655bee2473b8234c8e72aeffc660d1de3dc"
+    },
+    "assets/images/alejandra-silhueta-danca-360-58a7e8c342.webp": {
+      "bytes": 5604,
+      "sha256": "58a7e8c3426b5f305f0fece70035e6c121dfe8d0fec6fec95e5c7d7c7d6ce4b6"
+    },
+    "assets/images/alejandra-silhueta-danca-640-5dfc7d3d00.webp": {
+      "bytes": 12932,
+      "sha256": "5dfc7d3d009d9c07080e4fbd2f7d0ae792c21f4cf7effe82bb9a3fddeacdb84d"
+    },
+    "assets/images/alejandra-silhueta-danca-960-ad866d1ec7.webp": {
+      "bytes": 22122,
+      "sha256": "ad866d1ec78ff99acd5dafa179d245e91f6b858fbd6a9d08d23e8df310835762"
+    },
+    "assets/images/alejandra-silhueta-danca-1024-ef289b2f7f.webp": {
+      "bytes": 24396,
+      "sha256": "ef289b2f7ff169beef6b6983a303eb7adcc23a3e2e4d720ae1e2036c0529fbd0"
+    },
+    "assets/images/alejandra-dunas-meditacao-160-3f03fcf964.webp": {
+      "bytes": 2552,
+      "sha256": "3f03fcf96463d1b3d774388edad2d164119c4033d80ee4aac40afc975e59370e"
+    },
+    "assets/images/alejandra-dunas-meditacao-360-aa65688eb4.webp": {
+      "bytes": 7996,
+      "sha256": "aa65688eb4d7749f87260762d485395c3bc2e324a3d4d778c9c2dad4fb807866"
+    },
+    "assets/images/alejandra-dunas-meditacao-640-f9753fbd1c.webp": {
+      "bytes": 16324,
+      "sha256": "f9753fbd1c447b0c814309d15ea93b2f4c016512a996ae48042defbf2ab11776"
+    },
+    "assets/images/alejandra-dunas-meditacao-960-5a1d924546.webp": {
+      "bytes": 27440,
+      "sha256": "5a1d92454640012bca11659a2416ab13a52765b4bd1cc41f51248aa46cd41a54"
+    },
+    "assets/images/alejandra-dunas-meditacao-1024-d3d3dfc112.webp": {
+      "bytes": 29848,
+      "sha256": "d3d3dfc1122694bb919bdc94a167fa2bf40d7143ca3b916a513f7a20d9eda8cd"
+    },
+    "assets/images/alejandra-extase-solar-160-139f7c4257.webp": {
+      "bytes": 3070,
+      "sha256": "139f7c4257b09a4588dde09c14f990daf1b62fb4622c8ec8a0ab14888f97e73a"
+    },
+    "assets/images/alejandra-extase-solar-360-cb7211bf20.webp": {
+      "bytes": 8966,
+      "sha256": "cb7211bf204216d3e0a1665e304c478ec1e5383db9f48f51dc3db829f1908e8d"
+    },
+    "assets/images/alejandra-extase-solar-640-94ebec75e9.webp": {
+      "bytes": 19084,
+      "sha256": "94ebec75e9672c56bd92e5d31ab7b6a4658b297ead2f4745468089c0ea6300b5"
+    },
+    "assets/images/alejandra-extase-solar-960-197b257928.webp": {
+      "bytes": 32676,
+      "sha256": "197b25792893d93753008a9504538413e0ed24fdadc80605d88d926c659065c6"
+    },
+    "assets/images/alejandra-extase-solar-1024-ea87a6dca9.webp": {
+      "bytes": 35020,
+      "sha256": "ea87a6dca98df1b15d9eb723d4d5affefe429c0b36cdb417061fd5a1d9999d78"
+    },
+    "assets/images/kit-florais-frontal-160-5dcae4b0da.webp": {
+      "bytes": 6630,
+      "sha256": "5dcae4b0da71c181e18b5147302aeb771652ad8df7ef3e453ea2562a65c82294"
+    },
+    "assets/images/kit-florais-frontal-360-a111fb0d78.webp": {
+      "bytes": 24464,
+      "sha256": "a111fb0d78b954994a05b6fde53d28e0f86525a144262ac12665815478d3752a"
+    },
+    "assets/images/kit-florais-frontal-640-3406426d9c.webp": {
+      "bytes": 58602,
+      "sha256": "3406426d9cd340c5755f2e8123ec4e3c73e8913743746964942a7f2817aa342a"
+    },
+    "assets/images/kit-florais-frontal-960-6443fc8d2c.webp": {
+      "bytes": 99708,
+      "sha256": "6443fc8d2c45c54d8c4cfb6308697d1e908eba8f48b667089404725d5e21a6f5"
+    },
+    "assets/images/kit-florais-frontal-1024-d456894412.webp": {
+      "bytes": 110718,
+      "sha256": "d45689441260b2302f31e52324675d803f4f56711355febbe7d7609f6179eda4"
+    },
+    "assets/images/kit-florais-diagonal-160-ca353d2f13.webp": {
+      "bytes": 7584,
+      "sha256": "ca353d2f139c77a61a531aa3e546a43708d118b278d3774ab3d9c1c96d1427fb"
+    },
+    "assets/images/kit-florais-diagonal-360-62d0d4c2e8.webp": {
+      "bytes": 28636,
+      "sha256": "62d0d4c2e882d82a1bcb74ccf223113aeed7a55927de1e2a90287b72fec42303"
+    },
+    "assets/images/kit-florais-diagonal-640-d48a3b4305.webp": {
+      "bytes": 69072,
+      "sha256": "d48a3b4305d8f8531c38ce413a571b3ad8c678ed31a949ee8525329127b1c297"
+    },
+    "assets/images/kit-florais-diagonal-960-d81e421cbe.webp": {
+      "bytes": 119580,
+      "sha256": "d81e421cbe69af08bd236110580630d321b3283ab477e3783ea7068e2c7dfbf0"
+    },
+    "assets/images/kit-florais-diagonal-1024-4784da15bc.webp": {
+      "bytes": 134778,
+      "sha256": "4784da15bc23b4c406e7d858a5924b1bb192afca22ef9330a6c3f9edb3952f52"
+    },
+    "assets/images/mandala-rosa-geometria-160-64783d35f2.webp": {
+      "bytes": 9988,
+      "sha256": "64783d35f29a730777fc211b8f0161c4a628817d0f1509396dbd7734afae6448"
+    },
+    "assets/images/mandala-rosa-geometria-360-6c37bed63b.webp": {
+      "bytes": 36280,
+      "sha256": "6c37bed63ba0d623623acdbe89fe42b3732dfe2c0b69dae8f9c89da19f00eb34"
+    },
+    "assets/images/mandala-rosa-geometria-640-240e0c0350.webp": {
+      "bytes": 90990,
+      "sha256": "240e0c035025e111ae1f87cc1c7b188cff8a98d0fdf6cad4c341f4adade61d3d"
+    },
+    "assets/images/mandala-rosa-geometria-960-ae80db6e61.webp": {
+      "bytes": 171492,
+      "sha256": "ae80db6e61eae4e4fc7c532427383d49d18ff3c53417cad08c08c57eedd65c14"
+    },
+    "assets/images/mandala-rosa-geometria-1024-7fd697511f.webp": {
+      "bytes": 174822,
+      "sha256": "7fd697511f6f61c68304f993c804f0f3b9780458ffe383a526b73b681d32f57b"
+    },
+    "assets/images/alejandra-sorriso-dourado-160-866013ce45.webp": {
+      "bytes": 5568,
+      "sha256": "866013ce45864a094d65ce9835fadd2a6063420fe0c11ef079be62bb6688920c"
+    },
+    "assets/images/alejandra-sorriso-dourado-360-62a58aae89.webp": {
+      "bytes": 18744,
+      "sha256": "62a58aae892408f833ec9b30c6efc8e9405216cfa6f757ee468882b4ae382d3b"
+    },
+    "assets/images/alejandra-sorriso-dourado-640-3f066fb891.webp": {
+      "bytes": 41070,
+      "sha256": "3f066fb891815d42c10cee26974f97a8ea5e47327182860d82c5fd8f3371de01"
+    },
+    "assets/images/alejandra-sorriso-dourado-723-f2f330ab5e.webp": {
+      "bytes": 50316,
+      "sha256": "f2f330ab5e6833f9d07ea6ed8d984c3b8ef4efc0fc8b9e103a16ddfa4f748222"
+    },
+    "assets/images/memberkit-laptop-160-e6957d8879.webp": {
+      "bytes": 2916,
+      "sha256": "e6957d8879b2d454d5f6ea2b4f2f7a86072fb2db081dbf34777fd79e1389ef15"
+    },
+    "assets/images/memberkit-laptop-360-5a2681c865.webp": {
+      "bytes": 8988,
+      "sha256": "5a2681c8655888bc6abb9d1ac62b78676314a1824cc7ee0e5971a86d8c353f52"
+    },
+    "assets/images/memberkit-laptop-640-263b0e9035.webp": {
+      "bytes": 20016,
+      "sha256": "263b0e903537554629db097af5bbfebbb9399389b4f34d742e18823a463a60f7"
+    },
+    "assets/images/memberkit-laptop-960-0d902bf462.webp": {
+      "bytes": 32632,
+      "sha256": "0d902bf4627d22bc67e70a9b987f1f0695702ffe2149f5aaf403475bc031640c"
+    },
+    "assets/images/memberkit-laptop-1024-adfff57d26.webp": {
+      "bytes": 36406,
+      "sha256": "adfff57d260862720ae336c7e6a5f216e1e97a1f68606a396862cef7070c8d7d"
+    },
+    "assets/images/memberkit-mobile-160-97cfe351e0.webp": {
+      "bytes": 8068,
+      "sha256": "97cfe351e05aa60747e031a19b08bfed2664b91ff361f36ec85d75577bb3e2dd"
+    },
+    "assets/images/memberkit-mobile-335-988e156b29.webp": {
+      "bytes": 21718,
+      "sha256": "988e156b2982a26e220ea80a487606c9512def350333dea7c474f822e3ba6c66"
+    },
+    "assets/images/card-preco-ouro-bordeaux-160-2a53cf06ec.webp": {
+      "bytes": 3312,
+      "sha256": "2a53cf06ec8d5564801608de6bfd9d29a5e240dd880d976a93101add04803260"
+    },
+    "assets/images/card-preco-ouro-bordeaux-360-7d581a1ed0.webp": {
+      "bytes": 13662,
+      "sha256": "7d581a1ed0634fc01db7915a3a26cc1de0f6116c549cb44984bd252a42f1f1f0"
+    },
+    "assets/images/card-preco-ouro-bordeaux-640-70b3ae7e51.webp": {
+      "bytes": 42286,
+      "sha256": "70b3ae7e51cf523ef9e74f98ef18749b8a811067461b52817d295c190bb75e6d"
+    },
+    "assets/images/card-preco-ouro-bordeaux-726-0f95ef2eb6.webp": {
+      "bytes": 54022,
+      "sha256": "0f95ef2eb65957ecfee2116159b89d1995daef84441567cf7a31c6331c84a17a"
+    },
+    "assets/images/card-preco-ouro-ameixa-160-e4ae4dccae.webp": {
+      "bytes": 9252,
+      "sha256": "e4ae4dccaec3a56350f3ce6b6c337a01d6cca7161edb58f1921c29217a3149bb"
+    },
+    "assets/images/card-preco-ouro-ameixa-360-0f1177fc31.webp": {
+      "bytes": 24798,
+      "sha256": "0f1177fc31cc9e5dd64bc536bea5f2a5088b68aef6744ee35f32df81f85c30e9"
+    },
+    "assets/images/card-preco-ouro-ameixa-640-dc965b5da7.webp": {
+      "bytes": 80424,
+      "sha256": "dc965b5da7c18ba7b544fdf1aaa913a16beb8a79f5b4921c2757997c9d85d26e"
+    },
+    "assets/images/card-preco-ouro-ameixa-960-8c84b0633e.webp": {
+      "bytes": 193356,
+      "sha256": "8c84b0633ed39a74a170d2582dba68369f1d9b785e3f879459953af97ab8cccf"
+    },
+    "assets/images/card-preco-ouro-ameixa-1109-ae09dd46c8.webp": {
+      "bytes": 294742,
+      "sha256": "ae09dd46c8f91d617e6c49048dcc057c03cd79159d1455b401429bedc2cc6f92"
+    },
+    "assets/images/bonus-medalhao-rosa-160-d4e29f412e.webp": {
+      "bytes": 9598,
+      "sha256": "d4e29f412ef1c8565277d18c3f72593ac729da5b6c27c1a23b21e60f90d73c51"
+    },
+    "assets/images/bonus-medalhao-rosa-360-eee06c1807.webp": {
+      "bytes": 32130,
+      "sha256": "eee06c18070aa6f9a28b4aabc867408be1d131fd8dd35247b23b187a34c9c8fc"
+    },
+    "assets/images/bonus-medalhao-rosa-640-de8d0ed79c.webp": {
+      "bytes": 77704,
+      "sha256": "de8d0ed79c7c94633cc1a6f0444254b712d347bfcd289fd46fe2510aa292d986"
+    },
+    "assets/images/bonus-medalhao-rosa-892-5d03d23509.webp": {
+      "bytes": 125024,
+      "sha256": "5d03d235095867ee818433f309be34563632597c6b3dbc9556a7f4c822bcff05"
+    },
+    "assets/images/bonus-rosa-ameixa-160-5930ae5d3c.webp": {
+      "bytes": 9210,
+      "sha256": "5930ae5d3c4158a588ce2e414dccc182a9a5e07d2ce7ac19eedaab163f6f885d"
+    },
+    "assets/images/bonus-rosa-ameixa-360-d6075cbaf6.webp": {
+      "bytes": 28050,
+      "sha256": "d6075cbaf60bd11f77e495459b936a57bdfe745eebec38dcb39f720ac2c6ba52"
+    },
+    "assets/images/bonus-rosa-ameixa-640-36d6c471a2.webp": {
+      "bytes": 69376,
+      "sha256": "36d6c471a2543038c0b3387257319d3bffd95d52debcbbdbd617fe84689cf842"
+    },
+    "assets/images/bonus-rosa-ameixa-960-93cad52624.webp": {
+      "bytes": 137590,
+      "sha256": "93cad52624f1aa2ab28d050c9c3a08c3baae627437d63f011dc008444c9bb71b"
+    },
+    "assets/images/bonus-rosa-ameixa-1254-e9b2c185ae.webp": {
+      "bytes": 206832,
+      "sha256": "e9b2c185aebfdb57aea7e95f594d5f9fac01874e84d35a8c0f1f0e541ab4a8a4"
+    },
+    "assets/images/bonus-mandala-dna-160-d27bd19d5e.webp": {
+      "bytes": 20210,
+      "sha256": "d27bd19d5e274fd83b13396116af9a40f54d67391ba9fadb56a852fd2df367f7"
+    },
+    "assets/images/bonus-mandala-dna-360-a4b3baae54.webp": {
+      "bytes": 71630,
+      "sha256": "a4b3baae5460ff35394baf46daeea033ba8434ab85b7dcb1a1b6d8d9fae21f80"
+    },
+    "assets/images/bonus-mandala-dna-640-b26e1c1a69.webp": {
+      "bytes": 188110,
+      "sha256": "b26e1c1a69a94340a3cae4f7d9a13b7f4cf97d6555b7e3dbb9568f2735a9d1c1"
+    },
+    "assets/images/bonus-mandala-dna-724-f84e92342e.webp": {
+      "bytes": 215244,
+      "sha256": "f84e92342e5c3f65b888e7b06671d0b0aa4663f97d77855127e9b1c47892db2a"
+    },
+    "assets/images/bonus-fio-ameixa-160-2ae7798569.webp": {
+      "bytes": 17474,
+      "sha256": "2ae77985697b1b3452dc09e580f0acbf62cd8539f59cbd6512a1f132958a3211"
+    },
+    "assets/images/bonus-fio-ameixa-360-411f91a42d.webp": {
+      "bytes": 59920,
+      "sha256": "411f91a42dcc2b80ed4acad0dabadec72e3f14f3c48de778795340a48d466797"
+    },
+    "assets/images/bonus-fio-ameixa-640-b611b12752.webp": {
+      "bytes": 147840,
+      "sha256": "b611b1275273a941817d07c21c197b746c7b5021c581c7bfa72137c700c13356"
+    },
+    "assets/images/bonus-fio-ameixa-960-f9b5d103a3.webp": {
+      "bytes": 294178,
+      "sha256": "f9b5d103a38284103ca9d8412bddcdcbbc37f38ad1984cf8c2d093f0d8679291"
+    },
+    "assets/images/bonus-fio-ameixa-1254-3f5e73e983.webp": {
+      "bytes": 417856,
+      "sha256": "3f5e73e983e6eb5b20ef40a8b55bcd0402ea193e66ae2abb4a46c31b7950c32d"
+    },
+    "assets/images/bonus-mandala-perolas-160-12059bdb81.webp": {
+      "bytes": 18400,
+      "sha256": "12059bdb8182440c9f6b968bdc91f4f8877d9704435a59d6a1e6e76d8836050f"
+    },
+    "assets/images/bonus-mandala-perolas-360-330e98c5ec.webp": {
+      "bytes": 62554,
+      "sha256": "330e98c5ecb3209009b601630a13d591647040152db6353caf640732140122c4"
+    },
+    "assets/images/bonus-mandala-perolas-640-d1527fb1af.webp": {
+      "bytes": 168952,
+      "sha256": "d1527fb1af40ee8df193542f4bafaa4ac69df0aa006c211d6a340d9e6c540eab"
+    },
+    "assets/images/bonus-mandala-perolas-724-ca52d54dd5.webp": {
+      "bytes": 193998,
+      "sha256": "ca52d54dd5841da7ea1b051de6dea6fc327c29d6562199adfd1ac554d91febe9"
+    },
+    "assets/images/bonus-sistemico-ameixa-160-02cdaef6d7.webp": {
+      "bytes": 18904,
+      "sha256": "02cdaef6d70d39c43a9fff1130b3f61b87123310b38e812c0213371bd79eba62"
+    },
+    "assets/images/bonus-sistemico-ameixa-360-9a14bbee74.webp": {
+      "bytes": 71706,
+      "sha256": "9a14bbee74facb4742e2891139081ee9a1d8451daa635c92a9d2b02ce5bc0c58"
+    },
+    "assets/images/bonus-sistemico-ameixa-640-5ce8514bec.webp": {
+      "bytes": 184436,
+      "sha256": "5ce8514bec4e1564a97864d94218e5aaed094514c98dcdf9fc8834cab527a02c"
+    },
+    "assets/images/bonus-sistemico-ameixa-960-91d1603d54.webp": {
+      "bytes": 372102,
+      "sha256": "91d1603d545e17e0c4fe2ef28166e0cfc2782ab1d7cb162158fe19091d43ad1d"
+    },
+    "assets/images/bonus-sistemico-ameixa-1254-454a20f530.webp": {
+      "bytes": 530678,
+      "sha256": "454a20f530fece91d913bb23c3cb53b0b37c9ce3b4cf2830b6dec6d87bd604f7"
+    },
+    "assets/fonts/09941fb1c1-cinzel-latin-wght-normal.woff2": {
+      "bytes": 25904,
+      "sha256": "09941fb1c169c38fd414536b37690057fc01b3117a5c63dd6571186540c8f370"
+    },
+    "assets/licenses/cinzel.txt": {
+      "bytes": 4382,
+      "sha256": "f5a242cf68ad6ebd0603b3359a74c593ca080318a681035be5296ba2c6b04ae6"
+    },
+    "assets/fonts/d80df8ff5a-cormorant-garamond-latin-wght-normal.woff2": {
+      "bytes": 37640,
+      "sha256": "d80df8ff5aecd299a61549f9e29ab1ed0b9b05f4ea71d50fe978e07d5240b235"
+    },
+    "assets/licenses/cormorant-garamond.txt": {
+      "bytes": 4504,
+      "sha256": "732f37009943e7f4378cf37113c9bcc4716af002a8583511aa91ed5d37683e73"
+    },
+    "assets/fonts/6f2f5c3b1a-cormorant-garamond-latin-wght-italic.woff2": {
+      "bytes": 39260,
+      "sha256": "6f2f5c3b1abc3d0bb035a927f66a90ca873f94fc31c4966c8d024142c2036e55"
+    },
+    "assets/fonts/153fc85b70-plus-jakarta-sans-latin-wght-normal.woff2": {
+      "bytes": 27348,
+      "sha256": "153fc85b70298beeb1d61a5f723331649e7f23bb77302a66e61cb3e2fbdb5e79"
+    },
+    "assets/licenses/plus-jakarta-sans.txt": {
+      "bytes": 4534,
+      "sha256": "e07fd1167c2aaaa6fb965dd66e1e73b13c9c95b76b2d648b6e938780f30b37af"
+    },
+    "assets/travessia-silk.webp": {
+      "bytes": 125526,
+      "sha256": "9bcb78bef917fb06ba2fe0444d4bc40770cb592c80fa200d0733c29da219c323"
+    },
+    "assets/elara-645a667277.css": {
+      "bytes": 84112,
+      "sha256": "645a66727741bcf2861c69a018bc715271673d82561735ce8c8bd3dc5c8ac53b"
+    },
+    "assets/elara-AQLK5674.js": {
+      "bytes": 20001,
+      "sha256": "fb245f7ea1c5017865fd479a6768534b4eca2d1c7400ac3fc4b5245fcc308046"
+    },
+    "assets/motion-A3P2GRG7.js": {
+      "bytes": 119155,
+      "sha256": "424b5003dbfd304d37a99deb6ef626213e0d6596b7287dbb740efd1437889edb"
+    },
+    "index.html": {
+      "bytes": 90903,
+      "sha256": "0a620dc848fea43df349b479f963499f64777e98c56bc87493cacaad55d04d81"
+    },
+    "favicon.svg": {
+      "bytes": 244,
+      "sha256": "c1db2bdba1cc5bac6ada78efa49375d51a782f9a8cbec1205fa40af5276b37be"
+    },
+    "robots.txt": {
+      "bytes": 26,
+      "sha256": "331ea9090db0c9f6f597bd9840fd5b171830f6e0b3ba1cb24dfa91f0c95aedc1"
+    }
+  }
+}
