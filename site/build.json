@@ -1,11 +1,11 @@
 {
-  "buildId": "build-1792464731074",
+  "buildId": "build-1792466374194",
   "mode": "preview",
-  "branch": "feat/20-comparison-three-pairs",
-  "commit": "50b0b154d38633b07a66d127c564add4c0182a0f",
+  "branch": "feat/22-testimonial-gallery",
+  "commit": "f4cf1dec681c52561750b69a4daacced6a9af49c",
   "dirty": false,
-  "createdAt": "2026-10-20T02:52:11.843Z",
-  "sourceImageBytes": 24097308,
+  "createdAt": "2026-10-20T03:19:35.139Z",
+  "sourceImageBytes": 25402563,
   "files": {
     "assets/images/mandala-dourada-luz-160-36deca451a.webp": {
       "bytes": 19660,
@@ -327,6 +327,146 @@
       "bytes": 50316,
       "sha256": "f2f330ab5e6833f9d07ea6ed8d984c3b8ef4efc0fc8b9e103a16ddfa4f748222"
     },
+    "assets/images/elara-relato-03-160-8bd12645d0.webp": {
+      "bytes": 4718,
+      "sha256": "8bd12645d055a440eeec7aca8ef51a9b08b8e705acc33e224f4bd28c3f0d5d1e"
+    },
+    "assets/images/elara-relato-03-360-98fc60649a.webp": {
+      "bytes": 18156,
+      "sha256": "98fc60649a495d65c3bd3d673228b8fe15d94d024db1a848552ac5e03ffb3d56"
+    },
+    "assets/images/elara-relato-03-640-8ff4f991d6.webp": {
+      "bytes": 43298,
+      "sha256": "8ff4f991d66b03e206f232df9a22d8759c594dcb4824f8791096a7dc5929542b"
+    },
+    "assets/images/elara-relato-03-960-069b8107a3.webp": {
+      "bytes": 75046,
+      "sha256": "069b8107a3ed88eff275a9d098830d30bdf2593a9379f43fa40bf4485239c332"
+    },
+    "assets/images/elara-relato-03-1080-371b4d3b69.webp": {
+      "bytes": 87936,
+      "sha256": "371b4d3b697339a2313730b7ba015b64004b950cfca4fc6687df4ffcbdadad55"
+    },
+    "assets/images/elara-relato-04-160-cc49bc77cc.webp": {
+      "bytes": 5048,
+      "sha256": "cc49bc77cc486f31c1caa9baba1515e9189aae43d2411831bd21499750ebf00f"
+    },
+    "assets/images/elara-relato-04-360-8a3a5bb90a.webp": {
+      "bytes": 18862,
+      "sha256": "8a3a5bb90a1eedb19ffe143906d82fa91e217f4c18e4d7550474f471a1bac4e6"
+    },
+    "assets/images/elara-relato-04-640-ff5fa81536.webp": {
+      "bytes": 45020,
+      "sha256": "ff5fa81536bfc3b9a47dd0f666b4ef5a8da748acad5b97485f6ab36258e556f1"
+    },
+    "assets/images/elara-relato-04-960-8b9beaf6ee.webp": {
+      "bytes": 80640,
+      "sha256": "8b9beaf6ee660f2658e464eaaa15efd02a328d3e3ada5e4531095c156ab01779"
+    },
+    "assets/images/elara-relato-04-1080-c0fcc5094a.webp": {
+      "bytes": 95936,
+      "sha256": "c0fcc5094a4c40b6b9c2fb5021b51a634236b9ee4a027dd7422f9df7f33ee93a"
+    },
+    "assets/images/elara-relato-05-160-d86ffa28ba.webp": {
+      "bytes": 5582,
+      "sha256": "d86ffa28ba623e73effdee0d2cc8ca1d4ad0a894ec8d20b43649bece941dc805"
+    },
+    "assets/images/elara-relato-05-360-f402a84764.webp": {
+      "bytes": 20668,
+      "sha256": "f402a847640be4084f4bc63c9e3cd1e277e30b9a40ad2ae5ae02589f1c0f3e58"
+    },
+    "assets/images/elara-relato-05-640-625e200420.webp": {
+      "bytes": 47276,
+      "sha256": "625e200420e0cc22893d7317e3161ac819534af346870019de45676d0a8235c0"
+    },
+    "assets/images/elara-relato-05-960-a493573eed.webp": {
+      "bytes": 83274,
+      "sha256": "a493573eed08cd7c8395d155921757e1eba8adbf79cd01dbf4a78ab48eb4d772"
+    },
+    "assets/images/elara-relato-05-1080-14ca03f739.webp": {
+      "bytes": 97138,
+      "sha256": "14ca03f739ce2bdfedb19f9510507a089909265df48e126a57d2b9ea7d1aaea1"
+    },
+    "assets/images/elara-relato-06-160-505f0a4681.webp": {
+      "bytes": 5648,
+      "sha256": "505f0a4681a661962c832b3e20bded103f2f56e7f149d50c8d7984c297a4914a"
+    },
+    "assets/images/elara-relato-06-360-2656448f38.webp": {
+      "bytes": 20438,
+      "sha256": "2656448f38d38cf256bd5c4cabf53a1bc7cb449e80bfce91f67871a5b57543ad"
+    },
+    "assets/images/elara-relato-06-640-7ef72851f4.webp": {
+      "bytes": 47722,
+      "sha256": "7ef72851f404f630ce6e61e47142e4165f0eb2af893262382c048a84dbc01e7a"
+    },
+    "assets/images/elara-relato-06-960-a39fbdff78.webp": {
+      "bytes": 85264,
+      "sha256": "a39fbdff7859cb1177a88bb96bf2c9b7c10369dd819a73a88ac347826174b6eb"
+    },
+    "assets/images/elara-relato-06-1080-937e48e068.webp": {
+      "bytes": 99934,
+      "sha256": "937e48e06883b89eabe8803f67bb07dd6167408ba17a660c4d20a6c8411f5e71"
+    },
+    "assets/images/elara-relato-07-160-df0b91e891.webp": {
+      "bytes": 6010,
+      "sha256": "df0b91e8915fb95daca913b5ac84735c8a304d0b1b5e1ee555019b7f1798a999"
+    },
+    "assets/images/elara-relato-07-360-3ad72c26e4.webp": {
+      "bytes": 22226,
+      "sha256": "3ad72c26e4c3f8dece1ff8bfe59aaff77c407f069f766f89361d05d30e5303e3"
+    },
+    "assets/images/elara-relato-07-640-4cac8bffc7.webp": {
+      "bytes": 53868,
+      "sha256": "4cac8bffc7b7ce8820a7a9c275dbc3e260843429c7772e176d1afe9636e0fb24"
+    },
+    "assets/images/elara-relato-07-960-b6c83a3a82.webp": {
+      "bytes": 93000,
+      "sha256": "b6c83a3a823a1a4f338258a510613cf7f74d388710384eb81bf05ac432851bb3"
+    },
+    "assets/images/elara-relato-07-1080-fdac922490.webp": {
+      "bytes": 108984,
+      "sha256": "fdac9224902c69f984bbb258000176d68b6ab87c434fab623887d3ef0b37fa36"
+    },
+    "assets/images/elara-relato-08-160-0c6f2124d1.webp": {
+      "bytes": 7568,
+      "sha256": "0c6f2124d130f689a8b06ea485ae1a6bbc67ee112be973281d97a55f082722d1"
+    },
+    "assets/images/elara-relato-08-360-016f7a3493.webp": {
+      "bytes": 30112,
+      "sha256": "016f7a349315ed619fa38b1e3bf60be0129f346396b54a8b8c8ef1e712378f2f"
+    },
+    "assets/images/elara-relato-08-640-f1051ab1b4.webp": {
+      "bytes": 67278,
+      "sha256": "f1051ab1b49dee178a84daac4eaff5455fbd46e4ea6ccb41f8a4793316dc13d4"
+    },
+    "assets/images/elara-relato-08-960-5e9f1ca6f3.webp": {
+      "bytes": 114468,
+      "sha256": "5e9f1ca6f3e1c6737997bd4293f02122695257622ebac7585628766a4318853f"
+    },
+    "assets/images/elara-relato-08-1080-5f85a59bd9.webp": {
+      "bytes": 131970,
+      "sha256": "5f85a59bd9382c345c6ce177e5abdbbbe76ba2814c0083f479999f2e1844c427"
+    },
+    "assets/images/elara-relato-09-160-efe78d59f7.webp": {
+      "bytes": 6680,
+      "sha256": "efe78d59f72cf9e1772c88e74e07160774cf0542bca9a1ac9265fd5537dd21b8"
+    },
+    "assets/images/elara-relato-09-360-e1e9f0b291.webp": {
+      "bytes": 25834,
+      "sha256": "e1e9f0b2914e535d98ca005bdc299a02746b6bcb5a359a9df0c375f820732a98"
+    },
+    "assets/images/elara-relato-09-640-03db56ad04.webp": {
+      "bytes": 61614,
+      "sha256": "03db56ad047be78fd56fff58521d57401a5fae5e51451b8986305daea0ce5042"
+    },
+    "assets/images/elara-relato-09-960-3741258ed1.webp": {
+      "bytes": 106086,
+      "sha256": "3741258ed11422fb0752e7b35670b6b483f04efb2a8ccaf26c4396e9b8186df6"
+    },
+    "assets/images/elara-relato-09-1080-69c3de555c.webp": {
+      "bytes": 124550,
+      "sha256": "69c3de555c7df2094b1f3cfa6bcba26fb5ce6a177b2a43ac50cfe538c42bd24f"
+    },
     "assets/images/memberkit-laptop-160-e6957d8879.webp": {
       "bytes": 2916,
       "sha256": "e6957d8879b2d454d5f6ea2b4f2f7a86072fb2db081dbf34777fd79e1389ef15"
@@ -531,21 +671,21 @@
       "bytes": 125526,
       "sha256": "9bcb78bef917fb06ba2fe0444d4bc40770cb592c80fa200d0733c29da219c323"
     },
-    "assets/elara-7fa3e4aad3.css": {
-      "bytes": 90577,
-      "sha256": "7fa3e4aad3bb89b01f18db7076928d4ef40d61b963d631eb3c9dbb5e0c3a8906"
+    "assets/elara-2177dd48b9.css": {
+      "bytes": 94441,
+      "sha256": "2177dd48b94a2224c6251d9c5a4f47dc4a8b78cbab965e2f390358b5641bf134"
     },
-    "assets/elara-ZQFYWI4Q.js": {
-      "bytes": 20101,
-      "sha256": "0518f8f5c44f0b1a28d75e06404de64fbdedfcbc4eb762555fcedf59eab1d9cf"
+    "assets/elara-SSTSK5KX.js": {
+      "bytes": 24060,
+      "sha256": "5c232079ff933e0ee6ba65e763fbf05d48bb726366d5178561a02ac393cebc92"
     },
-    "assets/motion-A3P2GRG7.js": {
-      "bytes": 119155,
-      "sha256": "424b5003dbfd304d37a99deb6ef626213e0d6596b7287dbb740efd1437889edb"
+    "assets/motion-CTFJEK5O.js": {
+      "bytes": 119117,
+      "sha256": "34e7761e71fe8a471e3a29262beefad26848b27b5f57c202ee1a66ae2739b9dd"
     },
     "index.html": {
-      "bytes": 90900,
-      "sha256": "20e352e52ddd47fefdebfecd78bae79ba6c09011e904804b3bd5fac973ce3831"
+      "bytes": 100955,
+      "sha256": "289aa32daf5ebf0e4968381dac039faab78e4bd16db35da0dea307f8cbe11e8f"
     },
     "favicon.svg": {
       "bytes": 244,
