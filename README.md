@@ -8,7 +8,7 @@ Prévia pública aprovada da campanha Black Rose, com `noindex`. CTAs de compra 
 
 ## Editor visual
 
-`/editor/` oferece a camada original Inline Editor 1.6.1 sobre a mesma LP, com a paleta roxinha preservada também nas exportações. O HTML de autoria é autocontido e carrega aproximadamente 8,03 MB; a landing normal não carrega o editor. **Salvar editável** e **Exportar final** baixam arquivos locais e não modificam o site publicado. Uma nova publicação exige revisão e release. No editor, Layout → Tamanho permite dimensões numéricas e alças para imagens e CTAs.
+`/editor/` oferece a camada original Inline Editor 1.6.1 sobre a mesma LP, com a paleta roxinha preservada também nas exportações. O HTML de autoria é autocontido e carrega aproximadamente 7,58 MB; a landing normal não carrega o editor. **Salvar editável** e **Exportar final** baixam arquivos locais e não modificam o site publicado. Uma nova publicação exige revisão e release. No editor, Layout → Tamanho permite dimensões numéricas e alças para imagens e CTAs.
 
 ## Publicação rastreável
 
@@ -22,3 +22,7 @@ Prévia pública da ELARA para avaliação da cliente. Somente arquivos estátic
 Investimento com contorno dourado discreto; encontros presenciais opcionais com inscrição/pagamento à parte; kit com 12 florais de rosas em estojo especial e frete grátis. Dinheiro Feminino: R$ 127; três bônus: R$ 1.421; com o encontro individual de R$ 330: R$ 1.751 em experiências de presente.
 
 O celular apresenta as capas em loop contínuo; o computador alterna quatro capturas/miniaturas reais, incluindo Rosa Arco-Íris e aulas de Psique Feminina. Controles de pausa e avanço, movimento reduzido e fallback sem JavaScript preservados. Os mockups exibem imagens, não vídeos ao vivo.
+
+## Ajustes da release preview-2026.10.20.6
+
+Frame desfavorável retirado do computador: três imagens reais, mantendo Rosa Arco-Íris na abertura. Sustentação com rolagem natural, oito reveals em sequência e risco dourado por último; sem pin. Black Rose sem quebra, quadro dos bônus com contorno suave e WhatsApp no padrão dourado. Copy e dados comerciais preservados.

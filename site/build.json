@@ -1,11 +1,11 @@
 {
-  "buildId": "build-1792520408331",
+  "buildId": "build-1792529138831",
   "mode": "preview",
   "branch": "main",
-  "commit": "66db93bcfcc5ee6c606d80cdc3adda4fb7831ef0",
+  "commit": "3edb8ffe3be88349ba0f979839575e817e20cf05",
   "dirty": false,
-  "createdAt": "2026-10-20T18:20:09.613Z",
-  "sourceImageBytes": 21544144,
+  "createdAt": "2026-10-20T20:45:41.643Z",
+  "sourceImageBytes": 18451703,
   "files": {
     "assets/images/mandala-dourada-luz-160-36deca451a.webp": {
       "bytes": 19660,
@@ -487,30 +487,6 @@
       "bytes": 24732,
       "sha256": "95459ec5d23e9fe5ed7a0f532e10931af343ec2905993a3aa0b3fd9055a0348c"
     },
-    "assets/images/memberkit-psique-jornada-160-e702503756.webp": {
-      "bytes": 2216,
-      "sha256": "e7025037564dbfe37863809e86782c1e45b485e3c3c4eea5ab721abb3fb4f286"
-    },
-    "assets/images/memberkit-psique-jornada-360-1bf5011806.webp": {
-      "bytes": 7040,
-      "sha256": "1bf50118062c21c0605b1d8992955ae836643f272943f7adea16df724c7d6874"
-    },
-    "assets/images/memberkit-psique-jornada-640-64d46f21a8.webp": {
-      "bytes": 14892,
-      "sha256": "64d46f21a8153f0cee1f97083d93d64605276509e4d2d0bc49f2fbc8e073ed4a"
-    },
-    "assets/images/memberkit-psique-jornada-960-bcd17b085c.webp": {
-      "bytes": 26214,
-      "sha256": "bcd17b085ce681bde2194fb7a42d86dc8c621a5a7bf9543ca92a88e17c928b30"
-    },
-    "assets/images/memberkit-psique-jornada-1280-7c6f3934a8.webp": {
-      "bytes": 34912,
-      "sha256": "7c6f3934a840fa8c5e4b4d625da7ef6ea3d0d831c308c089d84ac4008d227527"
-    },
-    "assets/images/memberkit-psique-jornada-1600-6ec6a4bbb1.webp": {
-      "bytes": 45732,
-      "sha256": "6ec6a4bbb153bf232291a6e66382ccb5ae4680c501255029ab8aefc44c52919e"
-    },
     "assets/images/memberkit-psique-sombra-160-e7166e6c79.webp": {
       "bytes": 3010,
       "sha256": "e7166e6c790992749c4355bc95c1cbeefe3b8430e08761083eec33321fb878d9"
@@ -627,26 +603,6 @@
       "bytes": 60756,
       "sha256": "a3fbd717c8713a0a0fab3a539a8563f67dd6ab6a12752caa26bbbd3db6ae3686"
     },
-    "assets/images/card-preco-ouro-ameixa-160-e4ae4dccae.webp": {
-      "bytes": 9252,
-      "sha256": "e4ae4dccaec3a56350f3ce6b6c337a01d6cca7161edb58f1921c29217a3149bb"
-    },
-    "assets/images/card-preco-ouro-ameixa-360-0f1177fc31.webp": {
-      "bytes": 24798,
-      "sha256": "0f1177fc31cc9e5dd64bc536bea5f2a5088b68aef6744ee35f32df81f85c30e9"
-    },
-    "assets/images/card-preco-ouro-ameixa-640-dc965b5da7.webp": {
-      "bytes": 80424,
-      "sha256": "dc965b5da7c18ba7b544fdf1aaa913a16beb8a79f5b4921c2757997c9d85d26e"
-    },
-    "assets/images/card-preco-ouro-ameixa-960-8c84b0633e.webp": {
-      "bytes": 193356,
-      "sha256": "8c84b0633ed39a74a170d2582dba68369f1d9b785e3f879459953af97ab8cccf"
-    },
-    "assets/images/card-preco-ouro-ameixa-1109-ae09dd46c8.webp": {
-      "bytes": 294742,
-      "sha256": "ae09dd46c8f91d617e6c49048dcc057c03cd79159d1455b401429bedc2cc6f92"
-    },
     "assets/images/memberkit-dinheiro-feminino-160-66cb6468b9.webp": {
       "bytes": 3310,
       "sha256": "66cb6468b94d559e0053052916452f92185b2df2dae35c1f845c8bbf91324282"
@@ -715,21 +671,21 @@
       "bytes": 125526,
       "sha256": "9bcb78bef917fb06ba2fe0444d4bc40770cb592c80fa200d0733c29da219c323"
     },
-    "assets/elara-482add7721.css": {
-      "bytes": 105965,
-      "sha256": "482add7721f449dd63d609da9b27506d5bf3114e52c8b93a536702dfbc771450"
+    "assets/elara-0c961c9ae4.css": {
+      "bytes": 105742,
+      "sha256": "0c961c9ae40f9a9600de06079687b3403a95f4ecd28f5c5e2278dccd8a8703bb"
     },
-    "assets/elara-HW7JZLWU.js": {
-      "bytes": 25336,
-      "sha256": "ef87ddbc9fe92d546674d52f486ce5e9e3fe144c9c05bf5b6bb4533eda03c599"
+    "assets/elara-JHASBDL3.js": {
+      "bytes": 27045,
+      "sha256": "4c6b5e7ad76023f3209588ba6b469ef1a0166d62a643a1c9dcce504197096a90"
     },
-    "assets/motion-CTFJEK5O.js": {
-      "bytes": 119117,
-      "sha256": "34e7761e71fe8a471e3a29262beefad26848b27b5f57c202ee1a66ae2739b9dd"
+    "assets/motion-KEI5V2FR.js": {
+      "bytes": 118805,
+      "sha256": "b782105359b2a758a18f361856c6a82a21dd9684cd2bdfb219be81812963ee7b"
     },
     "index.html": {
-      "bytes": 102149,
-      "sha256": "6e29aaa970a591db7597f1362829444645d02a494717030eea65f511c02c2b62"
+      "bytes": 100703,
+      "sha256": "4f2183ad6e36772ae8a35c4b45d03503871917b798c6c127fd67eed818f3ea9b"
     },
     "favicon.svg": {
       "bytes": 244,
@@ -740,8 +696,8 @@
       "sha256": "331ea9090db0c9f6f597bd9840fd5b171830f6e0b3ba1cb24dfa91f0c95aedc1"
     },
     "editor/index.html": {
-      "bytes": 8034016,
-      "sha256": "1648d898c97ad06b472c3be19ee3fb7bb2bd77b94c675c2c8a56b8465c41d753"
+      "bytes": 7580463,
+      "sha256": "2a69e987c630d76b5674c20464ed49fd3390fd5b666b2524d0109703e0e20db0"
     }
   }
 }
