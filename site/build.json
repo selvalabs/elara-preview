@@ -1,11 +1,11 @@
 {
-  "buildId": "build-1792512630603",
+  "buildId": "build-1792520408331",
   "mode": "preview",
   "branch": "main",
-  "commit": "3c73cb1f443cbff8f33d81823623acf82428f05e",
+  "commit": "66db93bcfcc5ee6c606d80cdc3adda4fb7831ef0",
   "dirty": false,
-  "createdAt": "2026-10-20T16:10:32.460Z",
-  "sourceImageBytes": 21236766,
+  "createdAt": "2026-10-20T18:20:09.613Z",
+  "sourceImageBytes": 21544144,
   "files": {
     "assets/images/mandala-dourada-luz-160-36deca451a.webp": {
       "bytes": 19660,
@@ -443,21 +443,97 @@
       "bytes": 124550,
       "sha256": "69c3de555c7df2094b1f3cfa6bcba26fb5ce6a177b2a43ac50cfe538c42bd24f"
     },
-    "assets/images/memberkit-aula-rosa-preta-160-8e315878eb.webp": {
-      "bytes": 3286,
-      "sha256": "8e315878eb843c22c18f842843a8805b4f92b9e057de7bcf3d5bd92b1333725e"
+    "assets/images/memberkit-aula-rosa-arco-iris-160-3820edb4ee.webp": {
+      "bytes": 3054,
+      "sha256": "3820edb4ee5210baf186f6ff8d1c6ed2bfac4a29d4c5cb8c9beda06b956abf5b"
     },
-    "assets/images/memberkit-aula-rosa-preta-360-b849c097c0.webp": {
-      "bytes": 10260,
-      "sha256": "b849c097c04c11a13993710488036b88885875a085ca1f2bc786834b6353a154"
+    "assets/images/memberkit-aula-rosa-arco-iris-360-ba1aac8ad6.webp": {
+      "bytes": 8814,
+      "sha256": "ba1aac8ad620a50054c2b87307c0537ed8fedd73cbf6c3f8769321f179bcee81"
     },
-    "assets/images/memberkit-aula-rosa-preta-640-ae55318636.webp": {
-      "bytes": 21058,
-      "sha256": "ae553186364174917422a580c0acefad8772a4e3d9b1a68ac17e72e31fda1480"
+    "assets/images/memberkit-aula-rosa-arco-iris-640-7a459a41b6.webp": {
+      "bytes": 17268,
+      "sha256": "7a459a41b6269e5bf6d136355d89a4ebcff37c8d126b0dd9cdb51a67e582de48"
     },
-    "assets/images/memberkit-aula-rosa-preta-853-a6ecca6c8a.webp": {
-      "bytes": 27806,
-      "sha256": "a6ecca6c8a7ee40f0da6f66e379b3ed3f1ecf9379acaa645629cbcec9000ae4f"
+    "assets/images/memberkit-aula-rosa-arco-iris-960-5a2195de36.webp": {
+      "bytes": 28894,
+      "sha256": "5a2195de368dde4d032b9fdff0623b8f1fdd3df61de99a4d00022cbc4299c1d7"
+    },
+    "assets/images/memberkit-aula-rosa-arco-iris-1280-a553c5eff5.webp": {
+      "bytes": 38832,
+      "sha256": "a553c5eff5266e72c28d6cbff07ffae4e25344e396ca1596cc9990076a95c905"
+    },
+    "assets/images/memberkit-aula-rosa-arco-iris-1600-4220550e33.webp": {
+      "bytes": 52698,
+      "sha256": "4220550e33979d08f48f69bb83b2ed493fa6fc7e5889e7d6b136ca28ee7ed998"
+    },
+    "assets/images/memberkit-psique-aulas-160-9f8ebe43db.webp": {
+      "bytes": 962,
+      "sha256": "9f8ebe43db2d89d99c874793e8bced437c7f48280fe1bd00457dc4bf258b10c5"
+    },
+    "assets/images/memberkit-psique-aulas-360-b943794d8f.webp": {
+      "bytes": 3542,
+      "sha256": "b943794d8f0ae3828a14383dae2ff5559cf63e90c564073420455ccd2a0e5685"
+    },
+    "assets/images/memberkit-psique-aulas-640-03914a3e20.webp": {
+      "bytes": 9500,
+      "sha256": "03914a3e20a152c067b335fb60c58ebc7dd679e6acac05fd383305c1769fb73c"
+    },
+    "assets/images/memberkit-psique-aulas-960-303a1f7b38.webp": {
+      "bytes": 17888,
+      "sha256": "303a1f7b38d6e041a31259477914f4d6d063628193c4625829ad362698749d99"
+    },
+    "assets/images/memberkit-psique-aulas-1170-95459ec5d2.webp": {
+      "bytes": 24732,
+      "sha256": "95459ec5d23e9fe5ed7a0f532e10931af343ec2905993a3aa0b3fd9055a0348c"
+    },
+    "assets/images/memberkit-psique-jornada-160-e702503756.webp": {
+      "bytes": 2216,
+      "sha256": "e7025037564dbfe37863809e86782c1e45b485e3c3c4eea5ab721abb3fb4f286"
+    },
+    "assets/images/memberkit-psique-jornada-360-1bf5011806.webp": {
+      "bytes": 7040,
+      "sha256": "1bf50118062c21c0605b1d8992955ae836643f272943f7adea16df724c7d6874"
+    },
+    "assets/images/memberkit-psique-jornada-640-64d46f21a8.webp": {
+      "bytes": 14892,
+      "sha256": "64d46f21a8153f0cee1f97083d93d64605276509e4d2d0bc49f2fbc8e073ed4a"
+    },
+    "assets/images/memberkit-psique-jornada-960-bcd17b085c.webp": {
+      "bytes": 26214,
+      "sha256": "bcd17b085ce681bde2194fb7a42d86dc8c621a5a7bf9543ca92a88e17c928b30"
+    },
+    "assets/images/memberkit-psique-jornada-1280-7c6f3934a8.webp": {
+      "bytes": 34912,
+      "sha256": "7c6f3934a840fa8c5e4b4d625da7ef6ea3d0d831c308c089d84ac4008d227527"
+    },
+    "assets/images/memberkit-psique-jornada-1600-6ec6a4bbb1.webp": {
+      "bytes": 45732,
+      "sha256": "6ec6a4bbb153bf232291a6e66382ccb5ae4680c501255029ab8aefc44c52919e"
+    },
+    "assets/images/memberkit-psique-sombra-160-e7166e6c79.webp": {
+      "bytes": 3010,
+      "sha256": "e7166e6c790992749c4355bc95c1cbeefe3b8430e08761083eec33321fb878d9"
+    },
+    "assets/images/memberkit-psique-sombra-360-8e429c6f25.webp": {
+      "bytes": 12812,
+      "sha256": "8e429c6f2505371e816df16781038f67591ac3847039836bb6976d4f710af2e2"
+    },
+    "assets/images/memberkit-psique-sombra-640-e532fe282c.webp": {
+      "bytes": 37080,
+      "sha256": "e532fe282c45c7dd36e17c1b86a684832f3d7d52dca2719c77746ef9af4ce304"
+    },
+    "assets/images/memberkit-psique-sombra-960-9caa6715aa.webp": {
+      "bytes": 79200,
+      "sha256": "9caa6715aaec48a752bf5fcd552e53607243f7a002c4b2c7d1ec2ea514f90c81"
+    },
+    "assets/images/memberkit-psique-sombra-1280-d203ec4219.webp": {
+      "bytes": 125866,
+      "sha256": "d203ec4219992aa5a7279867a7aedee298a2fe58fac6183f20e6d36954b245be"
+    },
+    "assets/images/memberkit-psique-sombra-1600-bef1b4cdc4.webp": {
+      "bytes": 179554,
+      "sha256": "bef1b4cdc4da19e7a31c7b27d3f30661f1521c1ba50eac84b9f8ff4432f7864f"
     },
     "assets/images/memberkit-caminho-rosas-160-d6738d387c.webp": {
       "bytes": 3548,
@@ -535,17 +611,21 @@
       "bytes": 89622,
       "sha256": "5f614c99a22fa50bd1e4804b4dc46e9b883975bb12d580b7ccd3591988590965"
     },
-    "assets/images/memberkit-sistemicos-160-3325c36dcf.webp": {
-      "bytes": 4120,
-      "sha256": "3325c36dcf0f52c7c36f039f82282a6124fe9d7988c6eacac3c7c242f1f809f0"
+    "assets/images/alejandra-olhar-horizonte-160-36a798bc56.webp": {
+      "bytes": 6438,
+      "sha256": "36a798bc569a1b83e50910d4f77baef1f2ead5cab657d4d4c091cc9ef08c5350"
     },
-    "assets/images/memberkit-sistemicos-360-d0dd9a38e2.webp": {
-      "bytes": 12796,
-      "sha256": "d0dd9a38e223668e16e138b550defe7ca795bd5c4995f6c66152e03e5a3ec6ad"
+    "assets/images/alejandra-olhar-horizonte-360-a539d64702.webp": {
+      "bytes": 21198,
+      "sha256": "a539d6470260bab2c536136102ea316c461eaf0804a3584c66dd9808615df93e"
     },
-    "assets/images/memberkit-sistemicos-600-af930116c8.webp": {
-      "bytes": 25002,
-      "sha256": "af930116c8d9323f41e617cc41e9248dc9933d14b28f21da75f87e41a32a36a8"
+    "assets/images/alejandra-olhar-horizonte-640-52db377659.webp": {
+      "bytes": 49100,
+      "sha256": "52db377659f60f9121053bc06d3990dd5b804b611991754ff015fa74236e18b6"
+    },
+    "assets/images/alejandra-olhar-horizonte-723-a3fbd717c8.webp": {
+      "bytes": 60756,
+      "sha256": "a3fbd717c8713a0a0fab3a539a8563f67dd6ab6a12752caa26bbbd3db6ae3686"
     },
     "assets/images/card-preco-ouro-ameixa-160-e4ae4dccae.webp": {
       "bytes": 9252,
@@ -591,21 +671,17 @@
       "bytes": 32938,
       "sha256": "deb49409d95e5741f5da07dd074eaf2a214e88a9e8967347f0aaf8dc4a1f4c87"
     },
-    "assets/images/alejandra-olhar-horizonte-160-36a798bc56.webp": {
-      "bytes": 6438,
-      "sha256": "36a798bc569a1b83e50910d4f77baef1f2ead5cab657d4d4c091cc9ef08c5350"
+    "assets/images/memberkit-sistemicos-160-3325c36dcf.webp": {
+      "bytes": 4120,
+      "sha256": "3325c36dcf0f52c7c36f039f82282a6124fe9d7988c6eacac3c7c242f1f809f0"
     },
-    "assets/images/alejandra-olhar-horizonte-360-a539d64702.webp": {
-      "bytes": 21198,
-      "sha256": "a539d6470260bab2c536136102ea316c461eaf0804a3584c66dd9808615df93e"
+    "assets/images/memberkit-sistemicos-360-d0dd9a38e2.webp": {
+      "bytes": 12796,
+      "sha256": "d0dd9a38e223668e16e138b550defe7ca795bd5c4995f6c66152e03e5a3ec6ad"
     },
-    "assets/images/alejandra-olhar-horizonte-640-52db377659.webp": {
-      "bytes": 49100,
-      "sha256": "52db377659f60f9121053bc06d3990dd5b804b611991754ff015fa74236e18b6"
-    },
-    "assets/images/alejandra-olhar-horizonte-723-a3fbd717c8.webp": {
-      "bytes": 60756,
-      "sha256": "a3fbd717c8713a0a0fab3a539a8563f67dd6ab6a12752caa26bbbd3db6ae3686"
+    "assets/images/memberkit-sistemicos-600-af930116c8.webp": {
+      "bytes": 25002,
+      "sha256": "af930116c8d9323f41e617cc41e9248dc9933d14b28f21da75f87e41a32a36a8"
     },
     "assets/fonts/09941fb1c1-cinzel-latin-wght-normal.woff2": {
       "bytes": 25904,
@@ -639,21 +715,21 @@
       "bytes": 125526,
       "sha256": "9bcb78bef917fb06ba2fe0444d4bc40770cb592c80fa200d0733c29da219c323"
     },
-    "assets/elara-5dbc00f27a.css": {
-      "bytes": 102084,
-      "sha256": "5dbc00f27aff0e5a65970fc56d4db7e4fb95b7e699d53d78cdd2343fec1e5878"
+    "assets/elara-482add7721.css": {
+      "bytes": 105965,
+      "sha256": "482add7721f449dd63d609da9b27506d5bf3114e52c8b93a536702dfbc771450"
     },
-    "assets/elara-5UI5H7C7.js": {
-      "bytes": 23894,
-      "sha256": "31c9f2c64856a585fd1a0d041f1879ded54ad7ee1a224e1a212b871749ae15de"
+    "assets/elara-HW7JZLWU.js": {
+      "bytes": 25336,
+      "sha256": "ef87ddbc9fe92d546674d52f486ce5e9e3fe144c9c05bf5b6bb4533eda03c599"
     },
     "assets/motion-CTFJEK5O.js": {
       "bytes": 119117,
       "sha256": "34e7761e71fe8a471e3a29262beefad26848b27b5f57c202ee1a66ae2739b9dd"
     },
     "index.html": {
-      "bytes": 97084,
-      "sha256": "a4f0e13dc48bbb4e79bb4d7ab87b2734026659b57940365496826b8d24067add"
+      "bytes": 102149,
+      "sha256": "6e29aaa970a591db7597f1362829444645d02a494717030eea65f511c02c2b62"
     },
     "favicon.svg": {
       "bytes": 244,
@@ -664,8 +740,8 @@
       "sha256": "331ea9090db0c9f6f597bd9840fd5b171830f6e0b3ba1cb24dfa91f0c95aedc1"
     },
     "editor/index.html": {
-      "bytes": 7481031,
-      "sha256": "06c879f8adfbddacf95852eef71ec601b4b75a9359017a2f159db77316e2373c"
+      "bytes": 8034016,
+      "sha256": "1648d898c97ad06b472c3be19ee3fb7bb2bd77b94c675c2c8a56b8465c41d753"
     }
   }
 }
