@@ -1,6 +1,6 @@
 # ELARA — prévia pública
 
-Prévia para avaliação da cliente, com seletor entre vermelho e degradê. A versão em degradê pode ser aberta com `?paleta=degrade`.
+Versão aprovada da ELARA com paleta roxinha fixa. A URL principal já abre nessa paleta, sem seletor de cores; links antigos continuam funcionando.
 
 Este repositório contém apenas os arquivos públicos prontos para o navegador em `site/` e a configuração de publicação. O código-fonte de desenvolvimento e seu histórico permanecem privados.
 
@@ -8,7 +8,7 @@ Prévia pública aprovada da campanha Black Rose, com `noindex`. CTAs de compra 
 
 ## Editor visual
 
-`/editor/` oferece a camada original Inline Editor 1.6.1 sobre a mesma LP, também com `?paleta=degrade`. O HTML de autoria é autocontido e carrega aproximadamente 10,16 MB; a landing normal não carrega o editor. **Salvar editável** e **Exportar final** baixam arquivos locais e não modificam o site publicado. Uma nova publicação exige revisão e release. No editor, Layout → Tamanho permite dimensões numéricas e alças para imagens e CTAs.
+`/editor/` oferece a camada original Inline Editor 1.6.1 sobre a mesma LP, com a paleta roxinha preservada também nas exportações. O HTML de autoria é autocontido e carrega aproximadamente 10,16 MB; a landing normal não carrega o editor. **Salvar editável** e **Exportar final** baixam arquivos locais e não modificam o site publicado. Uma nova publicação exige revisão e release. No editor, Layout → Tamanho permite dimensões numéricas e alças para imagens e CTAs.
 
 ## Publicação rastreável
 
