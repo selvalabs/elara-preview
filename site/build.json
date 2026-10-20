@@ -1,10 +1,10 @@
 {
-  "buildId": "build-1792460039373",
+  "buildId": "build-1792460258879",
   "mode": "preview",
   "branch": "feat/20-comparison-three-pairs",
   "commit": "c89a8aa7a42259588854d766aafb2f8e155f1d3a",
   "dirty": false,
-  "createdAt": "2026-10-20T01:33:59.952Z",
+  "createdAt": "2026-10-20T01:37:40.240Z",
   "sourceImageBytes": 24097308,
   "files": {
     "assets/images/mandala-dourada-luz-160-36deca451a.webp": {
@@ -544,8 +544,8 @@
       "sha256": "424b5003dbfd304d37a99deb6ef626213e0d6596b7287dbb740efd1437889edb"
     },
     "index.html": {
-      "bytes": 92033,
-      "sha256": "cc0e142287cf2c0047cdd2a4179bb9959556770e566cdd9e09061c89247e3ff1"
+      "bytes": 90900,
+      "sha256": "16b06e592ad37eb615d9d405fedcc59507553774aa46487c60cf946ff4ad7902"
     },
     "favicon.svg": {
       "bytes": 244,
