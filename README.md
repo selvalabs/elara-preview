@@ -4,7 +4,7 @@ Prévia para avaliação da cliente, com seletor entre vermelho e degradê. A ve
 
 Este repositório contém apenas os arquivos públicos prontos para o navegador em `site/` e a configuração de publicação. O código-fonte de desenvolvimento e seu histórico permanecem privados.
 
-O conteúdo é uma demonstração, com `noindex`; não configura checkout nem atendimento por WhatsApp. Não é a publicação final de vendas.
+Prévia pública aprovada da campanha Black Rose, com `noindex`. CTAs de compra apontam ao checkout oficial Kiwify; o último CTA após o FAQ abre o WhatsApp oficial. Campanha até 22/11/2026 às 23h59, horário de Brasília. A publicação continua identificada como preview para avaliação da cliente.
 
 ## Editor visual
 
