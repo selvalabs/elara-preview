@@ -1,10 +1,10 @@
 {
-  "buildId": "build-1792464727199",
+  "buildId": "build-1792466374194",
   "mode": "preview",
   "branch": "feat/22-testimonial-gallery",
-  "commit": "3fe4154ac0151fd1c50ac1210d4ab2989baecd4c",
+  "commit": "f4cf1dec681c52561750b69a4daacced6a9af49c",
   "dirty": false,
-  "createdAt": "2026-10-20T02:52:08.319Z",
+  "createdAt": "2026-10-20T03:19:35.139Z",
   "sourceImageBytes": 25402563,
   "files": {
     "assets/images/mandala-dourada-luz-160-36deca451a.webp": {
@@ -675,17 +675,17 @@
       "bytes": 94441,
       "sha256": "2177dd48b94a2224c6251d9c5a4f47dc4a8b78cbab965e2f390358b5641bf134"
     },
-    "assets/elara-3MF4TVEO.js": {
-      "bytes": 23976,
-      "sha256": "097aa405172f256f027bc0b12df26f784fb7b98dd5a9283694697ee99ba7f71e"
+    "assets/elara-SSTSK5KX.js": {
+      "bytes": 24060,
+      "sha256": "5c232079ff933e0ee6ba65e763fbf05d48bb726366d5178561a02ac393cebc92"
     },
-    "assets/motion-A3P2GRG7.js": {
-      "bytes": 119155,
-      "sha256": "424b5003dbfd304d37a99deb6ef626213e0d6596b7287dbb740efd1437889edb"
+    "assets/motion-CTFJEK5O.js": {
+      "bytes": 119117,
+      "sha256": "34e7761e71fe8a471e3a29262beefad26848b27b5f57c202ee1a66ae2739b9dd"
     },
     "index.html": {
       "bytes": 100955,
-      "sha256": "ca8c03d3feb5683893c1fe12a820233ee89e382712eb648f8f88f57c51d3e61b"
+      "sha256": "289aa32daf5ebf0e4968381dac039faab78e4bd16db35da0dea307f8cbe11e8f"
     },
     "favicon.svg": {
       "bytes": 244,
