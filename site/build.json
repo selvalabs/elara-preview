@@ -1,10 +1,10 @@
 {
-  "buildId": "build-1792461261909",
+  "buildId": "build-1792462698575",
   "mode": "preview",
   "branch": "feat/20-comparison-three-pairs",
-  "commit": "d4b718bf943cb8b9aea982867fff5b3dc6052a77",
+  "commit": "fce81578f89f5e6b8f17d472a55297f289d27384",
   "dirty": false,
-  "createdAt": "2026-10-20T01:54:22.915Z",
+  "createdAt": "2026-10-20T02:18:19.501Z",
   "sourceImageBytes": 24097308,
   "files": {
     "assets/images/mandala-dourada-luz-160-36deca451a.webp": {
@@ -531,9 +531,9 @@
       "bytes": 125526,
       "sha256": "9bcb78bef917fb06ba2fe0444d4bc40770cb592c80fa200d0733c29da219c323"
     },
-    "assets/elara-b8b861b1f4.css": {
-      "bytes": 90519,
-      "sha256": "b8b861b1f480bd8aca26d9ded3d69ccbf52d9589ceeae73ac5b3495cedebbfbe"
+    "assets/elara-32658c9e0c.css": {
+      "bytes": 90513,
+      "sha256": "32658c9e0c46115c728f50a9567b96d44ed9bd96e5b2bca2dec992c26f4a3e13"
     },
     "assets/elara-ZQFYWI4Q.js": {
       "bytes": 20101,
@@ -545,7 +545,7 @@
     },
     "index.html": {
       "bytes": 90900,
-      "sha256": "0d8fc463dc64317159f7dbd49818e9cadba6fad5896cb70118082cf775182515"
+      "sha256": "ce59172ecf7a99e3c1c33b286e7c726a758143eed5207fdce16e9cdc2d7ac4e4"
     },
     "favicon.svg": {
       "bytes": 244,
