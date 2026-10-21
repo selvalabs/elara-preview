@@ -1,11 +1,11 @@
 {
-  "buildId": "build-1792592801200",
+  "buildId": "build-1792619781200",
   "mode": "preview",
   "branch": "main",
-  "commit": "e53f7b674b614bbf984f553f075a5082f4ae009a",
+  "commit": "2b6f8f6698ab5fa6df3ec04d60bfe6b5131d3d8d",
   "dirty": false,
-  "createdAt": "2026-10-21T14:26:43.030Z",
-  "sourceImageBytes": 18451703,
+  "createdAt": "2026-10-21T21:56:22.481Z",
+  "sourceImageBytes": 23916035,
   "files": {
     "assets/images/mandala-dourada-luz-160-36deca451a.webp": {
       "bytes": 19660,
@@ -443,73 +443,77 @@
       "bytes": 124550,
       "sha256": "69c3de555c7df2094b1f3cfa6bcba26fb5ce6a177b2a43ac50cfe538c42bd24f"
     },
-    "assets/images/memberkit-aula-rosa-arco-iris-160-3820edb4ee.webp": {
-      "bytes": 3054,
-      "sha256": "3820edb4ee5210baf186f6ff8d1c6ed2bfac4a29d4c5cb8c9beda06b956abf5b"
+    "assets/images/memberkit-client-visao-cursos-160-80894a591f.webp": {
+      "bytes": 3590,
+      "sha256": "80894a591ffb2b03aaaa8afb1988aa60a0e19328f000fb92103ce176fbbc8bf0"
     },
-    "assets/images/memberkit-aula-rosa-arco-iris-360-ba1aac8ad6.webp": {
-      "bytes": 8814,
-      "sha256": "ba1aac8ad620a50054c2b87307c0537ed8fedd73cbf6c3f8769321f179bcee81"
+    "assets/images/memberkit-client-visao-cursos-360-0be49bc94a.webp": {
+      "bytes": 12162,
+      "sha256": "0be49bc94ad1867e74a823d8f50ce666a570121c19f4bce541ce2cf26df928bb"
     },
-    "assets/images/memberkit-aula-rosa-arco-iris-640-7a459a41b6.webp": {
-      "bytes": 17268,
-      "sha256": "7a459a41b6269e5bf6d136355d89a4ebcff37c8d126b0dd9cdb51a67e582de48"
+    "assets/images/memberkit-client-visao-cursos-640-f6ad4ac1c9.webp": {
+      "bytes": 27582,
+      "sha256": "f6ad4ac1c9c76fb4a65b2996949177695c98d46743188178cd6175dbefaf64ef"
     },
-    "assets/images/memberkit-aula-rosa-arco-iris-960-5a2195de36.webp": {
-      "bytes": 28894,
-      "sha256": "5a2195de368dde4d032b9fdff0623b8f1fdd3df61de99a4d00022cbc4299c1d7"
+    "assets/images/memberkit-client-visao-cursos-960-26d1e460a2.webp": {
+      "bytes": 50242,
+      "sha256": "26d1e460a2bd733d5c6e88bcab1b52a8c1f22c3a601c0409cc239b2cf234b507"
     },
-    "assets/images/memberkit-aula-rosa-arco-iris-1280-a553c5eff5.webp": {
-      "bytes": 38832,
-      "sha256": "a553c5eff5266e72c28d6cbff07ffae4e25344e396ca1596cc9990076a95c905"
+    "assets/images/memberkit-client-visao-cursos-1280-fb4ced705d.webp": {
+      "bytes": 74252,
+      "sha256": "fb4ced705d5b99d9b7f6d1700e2334600b5156efb8b6d45bcc69194a3ad99381"
     },
-    "assets/images/memberkit-aula-rosa-arco-iris-1600-4220550e33.webp": {
-      "bytes": 52698,
-      "sha256": "4220550e33979d08f48f69bb83b2ed493fa6fc7e5889e7d6b136ca28ee7ed998"
+    "assets/images/memberkit-client-visao-cursos-1600-a14c0430c6.webp": {
+      "bytes": 100558,
+      "sha256": "a14c0430c67ba3fe1e1d41480b97c5a81762b39977d15f043c6252bbb48c8fcf"
     },
-    "assets/images/memberkit-psique-aulas-160-9f8ebe43db.webp": {
-      "bytes": 962,
-      "sha256": "9f8ebe43db2d89d99c874793e8bced437c7f48280fe1bd00457dc4bf258b10c5"
+    "assets/images/memberkit-client-psique-aula-160-94d0def057.webp": {
+      "bytes": 2924,
+      "sha256": "94d0def0575b939309f638890439612c46efb7dc50e5b447d1a5d6257197f083"
     },
-    "assets/images/memberkit-psique-aulas-360-b943794d8f.webp": {
-      "bytes": 3542,
-      "sha256": "b943794d8f0ae3828a14383dae2ff5559cf63e90c564073420455ccd2a0e5685"
+    "assets/images/memberkit-client-psique-aula-360-f4e1d84b0a.webp": {
+      "bytes": 9936,
+      "sha256": "f4e1d84b0a7462acc2d1aac38bc1ba56b0dfe2d7969efc0d2be648ff5619ae8d"
     },
-    "assets/images/memberkit-psique-aulas-640-03914a3e20.webp": {
-      "bytes": 9500,
-      "sha256": "03914a3e20a152c067b335fb60c58ebc7dd679e6acac05fd383305c1769fb73c"
+    "assets/images/memberkit-client-psique-aula-640-be943745a3.webp": {
+      "bytes": 24408,
+      "sha256": "be943745a39bf46cf0a9b8f8e66169277dcf3b92bfa5f8b139d0267a988b89a6"
     },
-    "assets/images/memberkit-psique-aulas-960-303a1f7b38.webp": {
-      "bytes": 17888,
-      "sha256": "303a1f7b38d6e041a31259477914f4d6d063628193c4625829ad362698749d99"
+    "assets/images/memberkit-client-psique-aula-960-37494b5cbd.webp": {
+      "bytes": 45872,
+      "sha256": "37494b5cbd844a21f5adfee7d8e8582d1aced626267dd2611a7994de4c28bce2"
     },
-    "assets/images/memberkit-psique-aulas-1170-95459ec5d2.webp": {
-      "bytes": 24732,
-      "sha256": "95459ec5d23e9fe5ed7a0f532e10931af343ec2905993a3aa0b3fd9055a0348c"
+    "assets/images/memberkit-client-psique-aula-1280-4f611df9d9.webp": {
+      "bytes": 68390,
+      "sha256": "4f611df9d9f7fce5c320676988f18920db1bb6efda3642213594273eeeddf7f5"
     },
-    "assets/images/memberkit-psique-sombra-160-e7166e6c79.webp": {
-      "bytes": 3010,
-      "sha256": "e7166e6c790992749c4355bc95c1cbeefe3b8430e08761083eec33321fb878d9"
+    "assets/images/memberkit-client-psique-aula-1600-1d19f127ec.webp": {
+      "bytes": 90996,
+      "sha256": "1d19f127ec3f1dec53f95868340e24dde15c7cf7690ad403c4322459bd3b2ae3"
     },
-    "assets/images/memberkit-psique-sombra-360-8e429c6f25.webp": {
-      "bytes": 12812,
-      "sha256": "8e429c6f2505371e816df16781038f67591ac3847039836bb6976d4f710af2e2"
+    "assets/images/memberkit-client-rosa-arco-iris-160-ce093a37ce.webp": {
+      "bytes": 2970,
+      "sha256": "ce093a37ce0a2846196f456aab3a41056e56dad4721d0e24e8ee3315af208bae"
     },
-    "assets/images/memberkit-psique-sombra-640-e532fe282c.webp": {
-      "bytes": 37080,
-      "sha256": "e532fe282c45c7dd36e17c1b86a684832f3d7d52dca2719c77746ef9af4ce304"
+    "assets/images/memberkit-client-rosa-arco-iris-360-707c343629.webp": {
+      "bytes": 9026,
+      "sha256": "707c3436297ca3c2af5e4bda1a0de27c38c1055c29a26499b0a8e64e336c663e"
     },
-    "assets/images/memberkit-psique-sombra-960-9caa6715aa.webp": {
-      "bytes": 79200,
-      "sha256": "9caa6715aaec48a752bf5fcd552e53607243f7a002c4b2c7d1ec2ea514f90c81"
+    "assets/images/memberkit-client-rosa-arco-iris-640-10f8eb529c.webp": {
+      "bytes": 17668,
+      "sha256": "10f8eb529c47900e893a350f1c1281a44911946ab11b6c9a3644a586da04ab3e"
     },
-    "assets/images/memberkit-psique-sombra-1280-d203ec4219.webp": {
-      "bytes": 125866,
-      "sha256": "d203ec4219992aa5a7279867a7aedee298a2fe58fac6183f20e6d36954b245be"
+    "assets/images/memberkit-client-rosa-arco-iris-960-cbb28b112e.webp": {
+      "bytes": 28270,
+      "sha256": "cbb28b112eb7741ef1dc3ba25e7286f256ffe22f418dd27e489b7eafd59177a9"
     },
-    "assets/images/memberkit-psique-sombra-1600-bef1b4cdc4.webp": {
-      "bytes": 179554,
-      "sha256": "bef1b4cdc4da19e7a31c7b27d3f30661f1521c1ba50eac84b9f8ff4432f7864f"
+    "assets/images/memberkit-client-rosa-arco-iris-1280-65481c4838.webp": {
+      "bytes": 38560,
+      "sha256": "65481c4838d2d520ad6ae2ecf6351ff899d6b43c64a5a2ecd12538bdc3c17e5d"
+    },
+    "assets/images/memberkit-client-rosa-arco-iris-1600-a5a888c43f.webp": {
+      "bytes": 51146,
+      "sha256": "a5a888c43f2bd35f426f70e3e9090ba5d12dbaced925d6bcc618dd1c1200cfc0"
     },
     "assets/images/memberkit-caminho-rosas-160-d6738d387c.webp": {
       "bytes": 3548,
@@ -671,29 +675,29 @@
       "bytes": 125526,
       "sha256": "9bcb78bef917fb06ba2fe0444d4bc40770cb592c80fa200d0733c29da219c323"
     },
-    "assets/elara-e4d356e550.css": {
-      "bytes": 110228,
-      "sha256": "e4d356e550ba4338ceeb691d7572fce69be57de99909dfbf6491a235b479daeb"
+    "assets/elara-d9f3b0889a.css": {
+      "bytes": 109602,
+      "sha256": "d9f3b0889afa1730cd17180c7203a705fd555b5ed2efd46c5e6da3e04d921aca"
     },
-    "assets/elara-BERJYBRO.js": {
-      "bytes": 27475,
-      "sha256": "686f8bd0c2985a3abd5451e6e7f4ee72e432cdab493c34282e688bdd746dc422"
+    "assets/elara-AS7WB2L7.js": {
+      "bytes": 29552,
+      "sha256": "be2cd05cdaf39f95d6840813f383e28c37980b42b77ec657442ea2ec5dd0945b"
     },
-    "assets/motion-KEI5V2FR.js": {
-      "bytes": 118805,
-      "sha256": "b782105359b2a758a18f361856c6a82a21dd9684cd2bdfb219be81812963ee7b"
+    "assets/motion-E7XSKDTW.js": {
+      "bytes": 117594,
+      "sha256": "1cc9a4891bbdc76a0bedac0db25eecfe5bfdf881a7083db4b201a6f2592c36f4"
     },
     "index.html": {
-      "bytes": 101133,
-      "sha256": "85252ee82518cc5260e1a1984bf5396ca423f1ceccc995cbb3a5c1201deffeb7"
+      "bytes": 100323,
+      "sha256": "8e2c2d9246ddc8360f68b5c669cfcb50ce2861f58ec1d6ef29f989b417121a3c"
     },
     "termos-de-uso.html": {
       "bytes": 4775,
-      "sha256": "adf6e0c1b4e2e2a3ca387dcb869e2ca02217286e1e3c28b2b0cf8b8c01a45c0c"
+      "sha256": "444fce4fcd5b37a5c99521e346071c1ad1155f7ad49bfde43421a8bfcd5ee3cf"
     },
     "politica-de-privacidade.html": {
       "bytes": 5915,
-      "sha256": "890d008d86936eac007e9e136f9f37d3adaeacaad72768025560eb9d2df664d4"
+      "sha256": "701997f6de0135f893c24f4990ddcab356ae30f8a5c7e62a99daa65f0df3a1c8"
     },
     "favicon.svg": {
       "bytes": 244,
@@ -704,8 +708,8 @@
       "sha256": "331ea9090db0c9f6f597bd9840fd5b171830f6e0b3ba1cb24dfa91f0c95aedc1"
     },
     "editor/index.html": {
-      "bytes": 7585815,
-      "sha256": "f6970a8ed85142d48491d26834e68fda5fe2ffe6716fe3053c3297efe6e6f256"
+      "bytes": 6570927,
+      "sha256": "dcadcff3e68ad15fa5cc8e77a41726cd320b57c8ff10cfe6ab2fc65f00f896a4"
     }
   }
 }

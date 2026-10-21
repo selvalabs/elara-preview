@@ -30,3 +30,7 @@ Frame desfavorável retirado do computador: três imagens reais, mantendo Rosa A
 ## Ajustes da release preview-2026.10.21.1
 
 Fonte privada homologada: e53f7b674b614bbf984f553f075a5082f4ae009a (PR #39). Botões responsivos e selos maiores/centralizados; Black Rose separado acima das faixas; relatos com avanço automático e pausa para leitura; rodapé com Termos de Uso e Política de Privacidade, identificação e contato confirmados. Galeria, editor e recursos continuam locais. Sem mudanças de valores, compra ou coleta de dados.
+
+## Release preview-2026.10.21.2
+
+Fonte homologada: 2b6f8f6698ab5fa6df3ec04d60bfe6b5131d3d8d (elara-lp#42). Relatos com pausa por pressão, sem modal/barra e apenas cards completos; WhatsApp fixo; reveals e partículas revisados; notebook mais alto com três capturas fornecidas pelo cliente, recortes e dissolução a cada3s. Pacote estático sem mudanças comerciais ou de dados. Rollback: preview-2026.10.21.1 / 09d33bd07030e0708fff56ef40c78765e9236934.
