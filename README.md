@@ -26,3 +26,7 @@ O celular apresenta as capas em loop contínuo; o computador alterna quatro capt
 ## Ajustes da release preview-2026.10.20.6
 
 Frame desfavorável retirado do computador: três imagens reais, mantendo Rosa Arco-Íris na abertura. Sustentação com rolagem natural, oito reveals em sequência e risco dourado por último; sem pin. Black Rose sem quebra, quadro dos bônus com contorno suave e WhatsApp no padrão dourado. Copy e dados comerciais preservados.
+
+## Ajustes da release preview-2026.10.21.1
+
+Fonte privada homologada: e53f7b674b614bbf984f553f075a5082f4ae009a (PR #39). Botões responsivos e selos maiores/centralizados; Black Rose separado acima das faixas; relatos com avanço automático e pausa para leitura; rodapé com Termos de Uso e Política de Privacidade, identificação e contato confirmados. Galeria, editor e recursos continuam locais. Sem mudanças de valores, compra ou coleta de dados.
