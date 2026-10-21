@@ -1,10 +1,10 @@
 {
-  "buildId": "build-1792529138831",
+  "buildId": "build-1792541250633",
   "mode": "preview",
   "branch": "main",
-  "commit": "3edb8ffe3be88349ba0f979839575e817e20cf05",
+  "commit": "eb872f70f24e23e06f3c413595a8ea5e913d746f",
   "dirty": false,
-  "createdAt": "2026-10-20T20:45:41.643Z",
+  "createdAt": "2026-10-21T00:07:33.259Z",
   "sourceImageBytes": 18451703,
   "files": {
     "assets/images/mandala-dourada-luz-160-36deca451a.webp": {
@@ -684,8 +684,8 @@
       "sha256": "b782105359b2a758a18f361856c6a82a21dd9684cd2bdfb219be81812963ee7b"
     },
     "index.html": {
-      "bytes": 100703,
-      "sha256": "4f2183ad6e36772ae8a35c4b45d03503871917b798c6c127fd67eed818f3ea9b"
+      "bytes": 100574,
+      "sha256": "e86db21995b9892fa106f66727ee283d8f7526e11393c4d95de80602e9013a65"
     },
     "favicon.svg": {
       "bytes": 244,
@@ -696,8 +696,8 @@
       "sha256": "331ea9090db0c9f6f597bd9840fd5b171830f6e0b3ba1cb24dfa91f0c95aedc1"
     },
     "editor/index.html": {
-      "bytes": 7580463,
-      "sha256": "2a69e987c630d76b5674c20464ed49fd3390fd5b666b2524d0109703e0e20db0"
+      "bytes": 7580334,
+      "sha256": "1956358f513d5cdee7c0e5749fbf0178cf7cc4c916c32448a82cd91d45983ae0"
     }
   }
 }
