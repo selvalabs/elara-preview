@@ -1,0 +1,70 @@
+{
+  "base": "http://127.0.0.1:8152/elara-preview/",
+  "source": "13cba5d10c824c30848139d58f6c06d53100ea77",
+  "records": [
+    {
+      "route": "home",
+      "width": 390,
+      "checkout": 6,
+      "deadline": "24/11/2026 23h59",
+      "photo": true,
+      "staticPhotos": true,
+      "passed": true
+    },
+    {
+      "route": "home",
+      "width": 1440,
+      "checkout": 6,
+      "deadline": "24/11/2026 23h59",
+      "photo": true,
+      "staticPhotos": true,
+      "passed": true
+    },
+    {
+      "route": "porqueelaraimg/",
+      "width": 390,
+      "checkout": 6,
+      "deadline": "24/11/2026 23h59",
+      "photo": true,
+      "staticPhotos": true,
+      "passed": true
+    },
+    {
+      "route": "porqueelaraimg/",
+      "width": 1440,
+      "checkout": 6,
+      "deadline": "24/11/2026 23h59",
+      "photo": true,
+      "staticPhotos": true,
+      "passed": true
+    },
+    {
+      "route": "obrigada.html",
+      "status": 200,
+      "assets": true,
+      "noJs": true,
+      "passed": true
+    },
+    {
+      "route": "404.html",
+      "status": 200,
+      "assets": true,
+      "noJs": true,
+      "passed": true
+    },
+    {
+      "route": "caminho-inexistente-release29",
+      "status": 404,
+      "assets": true,
+      "noJs": true,
+      "passed": true
+    },
+    {
+      "route": "pasta/inexistente/mais/",
+      "status": 404,
+      "assets": true,
+      "noJs": true,
+      "passed": true
+    }
+  ]
+}

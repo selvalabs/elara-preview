@@ -37,4 +37,9 @@ assert '2026-11-24T23:59:00-03:00' in root_html
 assert 'encontros-presenciais-grupo-original-' in root_html
 assert root_html.count('href="https://pay.kiwify.com.br/M5pqPmr"') == 6
 assert 'https://pay.kiwify.com.br/qAID3mU' not in root_html
+for filename in ['card01-opcao-05-', 'card02-opcao-01-', 'card03-opcao-04-']:
+    assert filename in root_html
+for removed in ['data-photo-choices', 'data-photo-option', 'data-photo-status', 'logic-photo-choices__switch']:
+    assert removed not in root_html
+assert root_html.count('logic-card__thumb-header--approved') == 3
 print('Home e comparação equivalentes e íntegras; fonte:', child['commit'])

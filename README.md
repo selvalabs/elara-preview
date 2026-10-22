@@ -66,3 +66,14 @@ Validação fonte:build/check/diff; testes de suporte4/4 em320/390/768/1440, GET
 Ambiente GitHub Pages, preview com noindex, site/ e site/porqueelaraimg/. Nenhum banco/migração/VPS/mirror. Checkout fonte e pacote limpos no SHA aprovado; tag anotada antes do deploy manual com SHA/tag exatos. Configuração comercial e recursos locais disponíveis, Pages/OIDC existente, nenhum segredo no cliente. Rollback:preview-2026.10.22.1/c9a703e470ee4a2fb4933e5b63cd8c9e471e21b0 preservado. Nenhuma exclusão.
 
 QA final do pacote:8/8 registros aprovados; fonte final limpa319 recursos, pacote650 recursos íntegros. Relatório/identidades e evidência em verification/preview-2026.10.22.2-report.md e verification/preview-2026.10.22.2-qa.json. Pós-deploy será registrado na release pública.
+
+
+## Release preview-2026.10.22.3 — fotos finais
+
+Fonte homologada13cba5d10c824c30848139d58f6c06d53100ea77, PR54/issue53; branchfix/53-approved-card-photos, basef7e3c2fffda72a7d1dc782bbc84297d74304740f e head97284d19245877406cbeb3bca2991b5deeeb876b. Pacote na issue31, branchrelease/31-approved-card-photos, base9efd69d7e4ef61c454dc3491a37ba1a71ad38c44.
+
+As três fotos do print1334 ficam fixas:mulher entre livros/card01-opcao-05, árvore com bifurcação/card02-opcao-01 e grupo no campo/card03-opcao-04. Sem botão/status/opções ou código de troca no bundle. Recortes53%/50%/60% e cor homologada preservados; alternativas/originais permanecem no histórico, sem exclusões. Home e /porqueelaraimg/ completas com fotos finais; segunda URL mantém entrada#prova para links já compartilhados. Obrigada/404, prazo24/11 às23h59Brasília, checkoutM5pqPmr e demais ajustes preservados.
+
+Validação:build/check/diff, audit0 vulnerabilidades;4 casos existentes de copy/procedência/oferta e1 caso novo de fotos estáticas em320/390/768/1440 e sem JS aprovados, cliques sem troca, recortes e ausência de controles/overflow/erros. Capturas390/1440 inspecionadas. Suíte histórica completa não repetida para alteração focada. Manifestos e equivalência das rotas conferidos pelo workflow; pós-deploy público registrado na release.
+
+Ambiente Pages, preview/noindex, site/ e site/porqueelaraimg/; checkout limpo e tag/SHA imutáveis após merge. Nenhum segredo no cliente, dados/migração/VPS/mirror; rollback preview-2026.10.22.2/9efd69d7e4ef61c454dc3491a37ba1a71ad38c44 preservado.
