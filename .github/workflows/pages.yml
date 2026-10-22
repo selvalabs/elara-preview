@@ -58,6 +58,7 @@ jobs:
               assert hashlib.sha256(data).hexdigest() == metadata['sha256']
           print('Manifesto verificado; fonte:', manifest['commit'], 'arquivos:', len(actual))
           PY
+          python3 scripts/verify-image-review.py
       - name: Configurar Pages
         uses: actions/configure-pages@983d7736d9b0ae728b81ab479565c72886d7745b # v5
       - name: Empacotar somente arquivos do site

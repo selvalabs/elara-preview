@@ -1,0 +1,103 @@
+{
+  "base": "http://127.0.0.1:8146/",
+  "results": [
+    {
+      "width": 390,
+      "route": "home",
+      "motion": "reduce",
+      "entry": {
+        "hash": "",
+        "y": 0,
+        "top": 4301.828125,
+        "header": 68
+      },
+      "passed": true
+    },
+    {
+      "width": 390,
+      "route": "home",
+      "motion": "no-preference",
+      "entry": {
+        "hash": "",
+        "y": 0,
+        "top": 4301.828125,
+        "header": 68
+      },
+      "passed": true
+    },
+    {
+      "width": 390,
+      "route": "porqueelaraimg/",
+      "motion": "reduce",
+      "entry": {
+        "hash": "#prova",
+        "y": 4233,
+        "top": 68.546875,
+        "header": 69
+      },
+      "passed": true
+    },
+    {
+      "width": 390,
+      "route": "porqueelaraimg/",
+      "motion": "no-preference",
+      "entry": {
+        "hash": "#prova",
+        "y": 4233,
+        "top": 68.546875,
+        "header": 69
+      },
+      "passed": true
+    },
+    {
+      "width": 1440,
+      "route": "home",
+      "motion": "reduce",
+      "entry": {
+        "hash": "",
+        "y": 0,
+        "top": 4212.75,
+        "header": 82
+      },
+      "passed": true
+    },
+    {
+      "width": 1440,
+      "route": "home",
+      "motion": "no-preference",
+      "entry": {
+        "hash": "",
+        "y": 0,
+        "top": 4212.75,
+        "header": 82
+      },
+      "passed": true
+    },
+    {
+      "width": 1440,
+      "route": "porqueelaraimg/",
+      "motion": "reduce",
+      "entry": {
+        "hash": "#prova",
+        "y": 4142,
+        "top": 70.75,
+        "header": 71
+      },
+      "passed": true
+    },
+    {
+      "width": 1440,
+      "route": "porqueelaraimg/",
+      "motion": "no-preference",
+      "entry": {
+        "hash": "#prova",
+        "y": 4142,
+        "top": 70.75,
+        "header": 71
+      },
+      "passed": true
+    }
+  ],
+  "noJs": true,
+  "links": true
+}

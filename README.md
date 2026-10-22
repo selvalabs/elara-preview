@@ -38,3 +38,16 @@ Fonte homologada: 2b6f8f6698ab5fa6df3ec04d60bfe6b5131d3d8d (elara-lp#42). Relato
 ## Release preview-2026.10.21.3
 
 Fonte homologada: 09d968bac65d69ac519619d5839ed209d89b00ac (elara-lp#44). Reveals de textos e imagens por entrada no viewport, repetidos ao retornar; sustentação reinicia por visita e mantém o risco por último. Títulos centralizados, frase final maior e CTAs sem setas. Botões sem borda interna. Sem mudanças comerciais ou de dados. Rollback: preview-2026.10.21.2 / aed7e636209b5c44bea92bf4030372bbd40c53bf.
+
+
+## Release preview-2026.10.22.1
+
+Fonte homologada: 82d99cc8529d1fd6823aef5fb46b451e7c052f23 (selvalabs/elara-lp#46, issue45; base09d968bac65d69ac519619d5839ed209d89b00ac; branchfix/45-client-copy; head792f2c095fd86456febd1fdbe20c942693a5a544). Publicação pela issue27 na branchrelease/27-porqueelaraimg, baseada em afcf2e7ddbc5cd91e609b6a2322161f3f6144470.
+
+A home e /porqueelaraimg/ usam o mesmo build completo e todos os ajustes homologados: headline/apoio, Caminho do Feminino, bônus individual limitado às10 primeiras inscritas, fechamento do WhatsApp em duas linhas, notebook4:3 com quatro capturas e depoimentos por navegação manual. Os três cards mantêm as imagens anteriores e incluem as novas opções tratadas, com8/14/7 opções independentes por clique e teclado, sem instrução visível ou autoplay. A home inicia no hero; /porqueelaraimg/ inicia em #prova, respeitando o cabeçalho e sem impedir a navegação posterior. Nenhuma ferramenta de autoria é carregada nessas duas páginas.
+
+Validação da fonte: build/check aprovados, npm audit0 vulnerabilidades. Suíte completa46 casos:41 aprovados inicialmente; cinco falhas corrigidas e os cinco casos repetidos/aprovados. QA dirigido dos seletores em360/390/768/1440. Pacote com manifestos/hashes, equivalência de HTML entre rotas e validação de caminho de entrada. Recursos antigos versionados permanecem no manifesto para não excluir histórico local. Scripts de empacotamento/verificação em scripts/.
+
+Ambiente: GitHub Pages, preview com noindex, sem banco/migrações/VPS/mirror. Deploy manual somente da tag anotada e SHA imutável após merge. Verificação posterior: build.json das duas rotas, links/recursos HTTP200, abertura e seleção de imagens em mobile/desktop. Rollback: redeploy da tag preview-2026.10.21.3 / afcf2e7ddbc5cd91e609b6a2322161f3f6144470, preservada.
+
+QA do pacote:8 combinações aprovadas (390/1440, home/comparação, movimento normal/reduzido), ciclos8/14/7 e teclado, fallback sem JS, reload da comparação e rolagem posterior, links legais HTTP200, sem overflow/erros JS/recursos404. Evidência:verification/preview-2026.10.22.1-qa.json. Disco local disponível no preflight:19,1GB. Configuração comercial e recursos locais preservados; nenhuma variável secreta necessária para o site estático. Deploy usa permissões Pages/OIDC do workflow existente.
