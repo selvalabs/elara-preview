@@ -1,0 +1,11 @@
+# Release preview-2026.10.22.3
+
+Fonte:issue53, branchfix/53-approved-card-photos, basef7e3c2fffda72a7d1dc782bbc84297d74304740f, head97284d19245877406cbeb3bca2991b5deeeb876b; PR54 mergeado no GitHub em13cba5d10c824c30848139d58f6c06d53100ea77 após escolha/homologação do usuário. Main sincronizada por fast-forward, limpa, branch preservada e tag anotadapreview-2026.10.22.3 enviada antes do deploy.
+
+Pacote:issue31, branchrelease/31-approved-card-photos criada no GitHub, base9efd69d7e4ef61c454dc3491a37ba1a71ad38c44. Commit do pacote/merge e tag pública identificados no PR e release. Home e /porqueelaraimg/ recebem fotos fixas do print1334:card01-opcao-05,card02-opcao-01,card03-opcao-04. URL compartilhada preservada com entrada#prova, sem escolha. Alternativas preservadas no Git/recursos anteriores, sem exclusões.
+
+Validação:build fonte limpo197 recursos/18.421.185bytes; build/check/diff aprovados, audit completo0 vulnerabilidades e lockfile inalterado.4 casos existentes de copy/procedência/oferta e1 caso novo em320/390/768/1440 e sem JS aprovados; primeira execução corrigida apenas no seletor da captura do teste. Imagens/recortes e ausência de troca/controles/overflow/erros conferidos; capturas390/1440 inspecionadas. Suíte histórica completa não repetida para alteração focada.
+
+Pacote654 recursos íntegros por hash, rotas equivalentes salvo módulo de entrada; oito registros QA local aprovados (home/comparação390/1440 e quatro rotas suporte/404), fotos fixas, seis CTAsM5pqPmr, prazo24/11 às23h59, foto presencial, obrigada/404 preservados, sem recursos404/erros JS/overflow. EvidênciaJSON ao lado. AmbientePages https://selvalabs.github.io/elara-preview/, site/ e site/porqueelaraimg/, preview/noindex. Configuração/recursos locais disponíveis, nenhum segredo no cliente, permissõesPages/OIDC existentes. Disco local18,3GB. Sem dados/banco/migração/Docker/VPS/mirror.
+
+Deploy manual somente após merge/tag anotada com SHA exato. Pós-deploy confere jobs/manifests/hashes e as mesmas rotas/comportamento no site público; resultado registrado na release. Rollback preservado:preview-2026.10.22.2/9efd69d7e4ef61c454dc3491a37ba1a71ad38c44, sem migração limitando reversão. Nenhum serviço reiniciado ou arquivo excluído.
