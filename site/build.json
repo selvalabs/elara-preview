@@ -1,11 +1,12 @@
 {
-  "buildId": "build-1792688702891",
+  "buildId": "build-1792691548527",
   "mode": "preview",
+  "basePath": "/elara-preview/",
   "branch": "main",
-  "commit": "82d99cc8529d1fd6823aef5fb46b451e7c052f23",
+  "commit": "f7e3c2fffda72a7d1dc782bbc84297d74304740f",
   "dirty": false,
-  "createdAt": "2026-10-22T17:05:11.295Z",
-  "sourceImageBytes": 81594444,
+  "createdAt": "2026-10-22T17:52:32.538Z",
+  "sourceImageBytes": 85757756,
   "files": {
     "assets/images/mandala-dourada-luz-160-36deca451a.webp": {
       "bytes": 19660,
@@ -688,16 +689,16 @@
       "sha256": "1cc9a4891bbdc76a0bedac0db25eecfe5bfdf881a7083db4b201a6f2592c36f4"
     },
     "index.html": {
-      "bytes": 121332,
-      "sha256": "d790f611392d6e4fa0f79a8d31599e116b1d0a01e683e0c08db37308dfce63bf"
+      "bytes": 121497,
+      "sha256": "796aae34be30fecce30840baf4384318073c04e8e6b753df2ad89645000c0d0c"
     },
     "termos-de-uso.html": {
       "bytes": 4775,
-      "sha256": "b821a0d72755396b3380b8620c3e4e597da5f71777edd274c9ec28beeda7407b"
+      "sha256": "e12dd7fa40b787a6dd71ecb61c715fcd41186b839b6b9e1a68717075cec389a1"
     },
     "politica-de-privacidade.html": {
       "bytes": 5915,
-      "sha256": "b3f49c366c0c813c0928edb20e89cd4fcff7eb54a3d275bc34e5447d4c2b6749"
+      "sha256": "b74bdbda54404856da1b383bf0a190e7adaaaeca5c043104910e2619308f23e3"
     },
     "favicon.svg": {
       "bytes": 244,
@@ -708,8 +709,8 @@
       "sha256": "331ea9090db0c9f6f597bd9840fd5b171830f6e0b3ba1cb24dfa91f0c95aedc1"
     },
     "editor/index.html": {
-      "bytes": 14577662,
-      "sha256": "56c472bf51e736c7c842e2c5a063fca2c2fea51c43ebae605f9c1f982eec71c2"
+      "bytes": 15441848,
+      "sha256": "1a0e24c86026658abf22c4943269d68b96f0134d8c7487e4c29d3d98ee6e7b70"
     },
     "assets/images/estudos-janela-mikhail-nilov-160-419df89da1.webp": {
       "bytes": 7094,
@@ -2512,16 +2513,16 @@
       "sha256": "1cc9a4891bbdc76a0bedac0db25eecfe5bfdf881a7083db4b201a6f2592c36f4"
     },
     "porqueelaraimg/index.html": {
-      "bytes": 121391,
-      "sha256": "df0df62e5d943c681ad24c7dc12eb6553869e3b784b89c8329e706ab12d8cf08"
+      "bytes": 121556,
+      "sha256": "5db388f889bac865f43df7af4c7471c7ff74dc67d8f1914e885def946573cb61"
     },
     "porqueelaraimg/termos-de-uso.html": {
       "bytes": 4775,
-      "sha256": "b821a0d72755396b3380b8620c3e4e597da5f71777edd274c9ec28beeda7407b"
+      "sha256": "e12dd7fa40b787a6dd71ecb61c715fcd41186b839b6b9e1a68717075cec389a1"
     },
     "porqueelaraimg/politica-de-privacidade.html": {
       "bytes": 5915,
-      "sha256": "b3f49c366c0c813c0928edb20e89cd4fcff7eb54a3d275bc34e5447d4c2b6749"
+      "sha256": "b74bdbda54404856da1b383bf0a190e7adaaaeca5c043104910e2619308f23e3"
     },
     "porqueelaraimg/favicon.svg": {
       "bytes": 244,
@@ -2532,24 +2533,88 @@
       "sha256": "331ea9090db0c9f6f597bd9840fd5b171830f6e0b3ba1cb24dfa91f0c95aedc1"
     },
     "porqueelaraimg/editor/index.html": {
-      "bytes": 14577662,
-      "sha256": "56c472bf51e736c7c842e2c5a063fca2c2fea51c43ebae605f9c1f982eec71c2"
+      "bytes": 15441848,
+      "sha256": "1a0e24c86026658abf22c4943269d68b96f0134d8c7487e4c29d3d98ee6e7b70"
     },
     "porqueelaraimg/image-review-entry.js": {
-      "bytes": 1429,
-      "sha256": "a3999563fd9fc3e31a6ad4dd6cc42d37e2248e1d2fc7546d5ae048ab22d8e9e9"
+      "bytes": 1456,
+      "sha256": "cdfefa2686dae37a4de2651dc5097ff93a7359a964b1b98dea968a433ef2de7a"
     },
     "porqueelaraimg/build.json": {
-      "bytes": 56105,
-      "sha256": "6b07e7ed518f5697bbef0ea0f00a25084d122c9b1082e9f959606ad3c4fe0372"
+      "bytes": 57394,
+      "sha256": "13ff9b5526a1f1300652c384436dfa2ce7cd23e3926494cda6756be7c9458968"
+    },
+    "assets/images/encontros-presenciais-grupo-original-160-901ad9f612.webp": {
+      "bytes": 13830,
+      "sha256": "901ad9f61229f1675bffe5c91d49acdb17ba67647792d06924b915f4cda4c1ed"
+    },
+    "assets/images/encontros-presenciais-grupo-original-360-baceaabe90.webp": {
+      "bytes": 72966,
+      "sha256": "baceaabe9090710f2aad0bc6b4eeb297056bdde180f2e806b982a1eccb011ebc"
+    },
+    "assets/images/encontros-presenciais-grupo-original-640-4ccdde3bcc.webp": {
+      "bytes": 227420,
+      "sha256": "4ccdde3bcc73c675579fb5263c04d017b9cfc9b7433c9417634505f706adc4b7"
+    },
+    "assets/images/encontros-presenciais-grupo-original-960-570affab29.webp": {
+      "bytes": 475962,
+      "sha256": "570affab2988276afeb49272965b49222494cfa8dd864d9b4c2217133a20825a"
+    },
+    "assets/images/encontros-presenciais-grupo-original-1200-141e6356f4.webp": {
+      "bytes": 673996,
+      "sha256": "141e6356f4155d5bb9c75e57e8b2ef6406838563010bc5c9c7f6609c606a4c71"
+    },
+    "assets/elara-61d2c17042.css": {
+      "bytes": 118034,
+      "sha256": "61d2c17042627d0e2b469460deefcc9db169ccd7d2e18b4308700c06b80088a2"
+    },
+    "obrigada.html": {
+      "bytes": 3421,
+      "sha256": "a2b4ddcd9298cd64d1ae7ee611ed72293b3a063242ebcc28656c5f451b17ba1d"
+    },
+    "404.html": {
+      "bytes": 2424,
+      "sha256": "f9b9c20e352f69765728caa79f0f514f99e50ad7ceb53731fa145a2bd4bc1bc4"
+    },
+    "porqueelaraimg/assets/images/encontros-presenciais-grupo-original-160-901ad9f612.webp": {
+      "bytes": 13830,
+      "sha256": "901ad9f61229f1675bffe5c91d49acdb17ba67647792d06924b915f4cda4c1ed"
+    },
+    "porqueelaraimg/assets/images/encontros-presenciais-grupo-original-360-baceaabe90.webp": {
+      "bytes": 72966,
+      "sha256": "baceaabe9090710f2aad0bc6b4eeb297056bdde180f2e806b982a1eccb011ebc"
+    },
+    "porqueelaraimg/assets/images/encontros-presenciais-grupo-original-640-4ccdde3bcc.webp": {
+      "bytes": 227420,
+      "sha256": "4ccdde3bcc73c675579fb5263c04d017b9cfc9b7433c9417634505f706adc4b7"
+    },
+    "porqueelaraimg/assets/images/encontros-presenciais-grupo-original-960-570affab29.webp": {
+      "bytes": 475962,
+      "sha256": "570affab2988276afeb49272965b49222494cfa8dd864d9b4c2217133a20825a"
+    },
+    "porqueelaraimg/assets/images/encontros-presenciais-grupo-original-1200-141e6356f4.webp": {
+      "bytes": 673996,
+      "sha256": "141e6356f4155d5bb9c75e57e8b2ef6406838563010bc5c9c7f6609c606a4c71"
+    },
+    "porqueelaraimg/assets/elara-61d2c17042.css": {
+      "bytes": 118034,
+      "sha256": "61d2c17042627d0e2b469460deefcc9db169ccd7d2e18b4308700c06b80088a2"
+    },
+    "porqueelaraimg/obrigada.html": {
+      "bytes": 3421,
+      "sha256": "a2b4ddcd9298cd64d1ae7ee611ed72293b3a063242ebcc28656c5f451b17ba1d"
+    },
+    "porqueelaraimg/404.html": {
+      "bytes": 2424,
+      "sha256": "f9b9c20e352f69765728caa79f0f514f99e50ad7ceb53731fa145a2bd4bc1bc4"
     }
   },
-  "previousSourceCommit": "09d968bac65d69ac519619d5839ed209d89b00ac",
+  "previousSourceCommit": "82d99cc8529d1fd6823aef5fb46b451e7c052f23",
   "previews": {
     "porqueelaraimg": {
       "path": "porqueelaraimg/",
       "anchor": "prova",
-      "sourceCommit": "82d99cc8529d1fd6823aef5fb46b451e7c052f23"
+      "sourceCommit": "f7e3c2fffda72a7d1dc782bbc84297d74304740f"
     }
   }
 }

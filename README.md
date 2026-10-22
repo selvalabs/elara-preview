@@ -51,3 +51,18 @@ Validação da fonte: build/check aprovados, npm audit0 vulnerabilidades. Suíte
 Ambiente: GitHub Pages, preview com noindex, sem banco/migrações/VPS/mirror. Deploy manual somente da tag anotada e SHA imutável após merge. Verificação posterior: build.json das duas rotas, links/recursos HTTP200, abertura e seleção de imagens em mobile/desktop. Rollback: redeploy da tag preview-2026.10.21.3 / afcf2e7ddbc5cd91e609b6a2322161f3f6144470, preservada.
 
 QA do pacote:8 combinações aprovadas (390/1440, home/comparação, movimento normal/reduzido), ciclos8/14/7 e teclado, fallback sem JS, reload da comparação e rolagem posterior, links legais HTTP200, sem overflow/erros JS/recursos404. Evidência:verification/preview-2026.10.22.1-qa.json. Disco local disponível no preflight:19,1GB. Configuração comercial e recursos locais preservados; nenhuma variável secreta necessária para o site estático. Deploy usa permissões Pages/OIDC do workflow existente.
+
+
+## Release preview-2026.10.22.2
+
+Fonte final homologadaf7e3c2fffda72a7d1dc782bbc84297d74304740f reúne:PR48/issue47 (obrigada e404), PR50/issue49 (foto presencial e prazo24/11), PR52/issue51 (checkoutM5pqPmr). Bases/heads/merges registrados no relatório desta release. Branch públicarelease/29-support-pages, issue29, basec9a703e470ee4a2fb4933e5b63cd8c9e471e21b0.
+
+Home e /porqueelaraimg/ completas com todos os ajustes anteriores preservados; comparação inicia em#prova e mantém seletores8/14/7. Obrigada orienta confirmação por e-mail/acesso à MemberKit oficial/WhatsApp sem atestar transação pela visita. 404 da raiz do Pages preserva status404 e caminhos de recursos/retorno em URLs profundas. Sem JavaScript/coleta nas páginas de suporte. Nenhuma configuração de redirecionamento da Kiwify foi alterada.
+
+Foto real enviada do grupo no card Encontros presenciais opcionais, original com tratamento CSS para preservar rostos, recorte responsivo e sem zoom no hover. Prazo Black Rose até24/11/2026 às23h59Brasília, contador e fallback. Seis links de compra atualizados para https://pay.kiwify.com.br/M5pqPmr; preços/WhatsApp/copy preservados.
+
+Validação fonte:build/check/diff; testes de suporte4/4 em320/390/768/1440, GET/HEAD404 e URLs profundas, sem JS/teclado/AA sem violações; foto320/390/768/1440/1920 com capturas inspecionadas;3 testes de contador/oferta/presenciais e3 testes de checkout/toque interceptado/prazo aprovados. Audit completo0 vulnerabilidades; lockfile inalterado. Suíte histórica completa não repetida para alterações focadas, cobertas por conjuntos dirigidos e QA do pacote.
+
+Ambiente GitHub Pages, preview com noindex, site/ e site/porqueelaraimg/. Nenhum banco/migração/VPS/mirror. Checkout fonte e pacote limpos no SHA aprovado; tag anotada antes do deploy manual com SHA/tag exatos. Configuração comercial e recursos locais disponíveis, Pages/OIDC existente, nenhum segredo no cliente. Rollback:preview-2026.10.22.1/c9a703e470ee4a2fb4933e5b63cd8c9e471e21b0 preservado. Nenhuma exclusão.
+
+QA final do pacote:8/8 registros aprovados; fonte final limpa319 recursos, pacote650 recursos íntegros. Relatório/identidades e evidência em verification/preview-2026.10.22.2-report.md e verification/preview-2026.10.22.2-qa.json. Pós-deploy será registrado na release pública.

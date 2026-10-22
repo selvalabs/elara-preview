@@ -27,4 +27,14 @@ child_html = (SITE / 'porqueelaraimg/index.html').read_text(encoding='utf-8')
 entry = '<script type="module" src="image-review-entry.js"></script>'
 assert entry not in root_html
 assert child_html == root_html.replace('</body>', entry+'</body>')
+for folder in [SITE, SITE / 'porqueelaraimg']:
+    for name in ['obrigada.html', '404.html']:
+        html = (folder / name).read_text(encoding='utf-8')
+        assert 'noindex, nofollow' in html and '<script' not in html and '<form' not in html
+        assert 'https://wa.me/557191026649' in html
+    assert '/elara-preview/assets/' in (folder / '404.html').read_text(encoding='utf-8')
+assert '2026-11-24T23:59:00-03:00' in root_html
+assert 'encontros-presenciais-grupo-original-' in root_html
+assert root_html.count('href="https://pay.kiwify.com.br/M5pqPmr"') == 6
+assert 'https://pay.kiwify.com.br/qAID3mU' not in root_html
 print('Home e comparação equivalentes e íntegras; fonte:', child['commit'])
