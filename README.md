@@ -34,3 +34,7 @@ Fonte privada homologada: e53f7b674b614bbf984f553f075a5082f4ae009a (PR #39). Bot
 ## Release preview-2026.10.21.2
 
 Fonte homologada: 2b6f8f6698ab5fa6df3ec04d60bfe6b5131d3d8d (elara-lp#42). Relatos com pausa por pressão, sem modal/barra e apenas cards completos; WhatsApp fixo; reveals e partículas revisados; notebook mais alto com três capturas fornecidas pelo cliente, recortes e dissolução a cada3s. Pacote estático sem mudanças comerciais ou de dados. Rollback: preview-2026.10.21.1 / 09d33bd07030e0708fff56ef40c78765e9236934.
+
+## Release preview-2026.10.21.3
+
+Fonte homologada: 09d968bac65d69ac519619d5839ed209d89b00ac (elara-lp#44). Reveals de textos e imagens por entrada no viewport, repetidos ao retornar; sustentação reinicia por visita e mantém o risco por último. Títulos centralizados, frase final maior e CTAs sem setas. Botões sem borda interna. Sem mudanças comerciais ou de dados. Rollback: preview-2026.10.21.2 / aed7e636209b5c44bea92bf4030372bbd40c53bf.

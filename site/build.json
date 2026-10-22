@@ -1,10 +1,10 @@
 {
-  "buildId": "build-1792619781200",
+  "buildId": "build-1792627895503",
   "mode": "preview",
   "branch": "main",
-  "commit": "2b6f8f6698ab5fa6df3ec04d60bfe6b5131d3d8d",
+  "commit": "09d968bac65d69ac519619d5839ed209d89b00ac",
   "dirty": false,
-  "createdAt": "2026-10-21T21:56:22.481Z",
+  "createdAt": "2026-10-22T00:11:37.051Z",
   "sourceImageBytes": 23916035,
   "files": {
     "assets/images/mandala-dourada-luz-160-36deca451a.webp": {
@@ -675,29 +675,29 @@
       "bytes": 125526,
       "sha256": "9bcb78bef917fb06ba2fe0444d4bc40770cb592c80fa200d0733c29da219c323"
     },
-    "assets/elara-d9f3b0889a.css": {
-      "bytes": 109602,
-      "sha256": "d9f3b0889afa1730cd17180c7203a705fd555b5ed2efd46c5e6da3e04d921aca"
+    "assets/elara-ca1aefd18d.css": {
+      "bytes": 109639,
+      "sha256": "ca1aefd18d85928fa8f0d88b45ab56cfa6f2f123eeecb5c373e846ec182be449"
     },
-    "assets/elara-AS7WB2L7.js": {
-      "bytes": 29552,
-      "sha256": "be2cd05cdaf39f95d6840813f383e28c37980b42b77ec657442ea2ec5dd0945b"
+    "assets/elara-YD3FOH2N.js": {
+      "bytes": 31537,
+      "sha256": "ed0b1868865da2de8245efbaffa4b9f446287765e6000d36dbefef4848f49802"
     },
     "assets/motion-E7XSKDTW.js": {
       "bytes": 117594,
       "sha256": "1cc9a4891bbdc76a0bedac0db25eecfe5bfdf881a7083db4b201a6f2592c36f4"
     },
     "index.html": {
-      "bytes": 100323,
-      "sha256": "8e2c2d9246ddc8360f68b5c669cfcb50ce2861f58ec1d6ef29f989b417121a3c"
+      "bytes": 99999,
+      "sha256": "396bb21051c7321d4bcdcedc59abe122f5d37ff55c09ea899a08bb1991cd9513"
     },
     "termos-de-uso.html": {
       "bytes": 4775,
-      "sha256": "444fce4fcd5b37a5c99521e346071c1ad1155f7ad49bfde43421a8bfcd5ee3cf"
+      "sha256": "beb64a77193989c5ba3f6463b1660328eef66846c6aa85a6c26b0872fe48ba35"
     },
     "politica-de-privacidade.html": {
       "bytes": 5915,
-      "sha256": "701997f6de0135f893c24f4990ddcab356ae30f8a5c7e62a99daa65f0df3a1c8"
+      "sha256": "52a75cdf91372539d46d33412f0b9fc11a97a263ddeb62c5847aa3ffeffbee9e"
     },
     "favicon.svg": {
       "bytes": 244,
@@ -708,8 +708,8 @@
       "sha256": "331ea9090db0c9f6f597bd9840fd5b171830f6e0b3ba1cb24dfa91f0c95aedc1"
     },
     "editor/index.html": {
-      "bytes": 6570927,
-      "sha256": "dcadcff3e68ad15fa5cc8e77a41726cd320b57c8ff10cfe6ab2fc65f00f896a4"
+      "bytes": 6572625,
+      "sha256": "55965072dd710d9ea5f07130ac4318c62ed29ab8ff1aa16b4d6c099940168615"
     }
   }
 }
