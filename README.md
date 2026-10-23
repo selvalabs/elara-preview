@@ -1,5 +1,15 @@
 # ELARA — prévia pública
 
+## Versão Astro otimizada — 23/10/2026
+
+A distribuição atual usa Astro estático e ilhas de interação, com o layout homologado preservado. `site/` contém exclusivamente o build público necessário; editor, catálogo de fotos, dependências, testes, caches e fontes de desenvolvimento não são publicados. Os arquivos fora de `site/` são histórico e ferramentas de distribuição.
+
+A home contém a landing completa com as três fotos escolhidas. `/porqueelaraimg/` encaminha para a seção `#prova` dessa mesma home. Obrigada, 404 e documentos legais permanecem disponíveis. O preview usa `noindex`; a publicação final é preparada separadamente para `https://elara.alejandraleao.com/`. Checkout oficial: `https://pay.kiwify.com.br/M5pqPmr`. Prazo da campanha: 24/11/2026 às 23h59, horário de Brasília.
+
+O SHA fonte e os hashes da distribuição estão em `site/build.json`. `scripts/import-astro-build.py` importa somente um build limpo do SHA informado para um diretório novo; normaliza os caminhos absolutos para o prefixo do Pages e acrescenta a rota antiga como redirecionamento. `scripts/verify-image-review.py` verifica inventário, hashes e características homologadas. O workflow continua manual, com tag anotada e SHA exatos após merge do PR.
+
+Os registros abaixo descrevem versões históricas, incluindo ferramentas e comportamentos que já não integram o produto publicado.
+
 Versão aprovada da ELARA com paleta roxinha fixa. A URL principal já abre nessa paleta, sem seletor de cores; links antigos continuam funcionando.
 
 Este repositório contém apenas os arquivos públicos prontos para o navegador em `site/` e a configuração de publicação. O código-fonte de desenvolvimento e seu histórico permanecem privados.

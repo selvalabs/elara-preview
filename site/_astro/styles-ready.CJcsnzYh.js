@@ -1,0 +1,1 @@
+function e(e){let t=document.querySelector(`[data-elara-styles]`);if(!t||t.dataset.ready===`true`){e();return}let n=()=>e();return t.addEventListener(`load`,n,{once:!0}),()=>t.removeEventListener(`load`,n)}export{e as t};
