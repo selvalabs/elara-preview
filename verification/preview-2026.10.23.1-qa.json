@@ -1,0 +1,23 @@
+{
+  "results": [
+    {
+      "width": 390,
+      "runtime": true,
+      "manualGallery": true,
+      "faq": true,
+      "legacyRedirect": true,
+      "support": true,
+      "errors": []
+    },
+    {
+      "width": 1440,
+      "runtime": true,
+      "manualGallery": true,
+      "faq": true,
+      "legacyRedirect": true,
+      "support": true,
+      "errors": []
+    }
+  ],
+  "noJs": true
+}

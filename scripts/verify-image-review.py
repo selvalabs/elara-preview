@@ -1,38 +1,34 @@
-"""Valida integridade e equivalência da home e da comparação de imagens."""
+"""Validate the approved Astro distribution and legacy review redirect."""
 import hashlib
 import json
 import pathlib
-import subprocess
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 SITE = ROOT / 'site'
-for folder in [SITE, SITE / 'porqueelaraimg']:
-    manifest = json.loads((folder / 'build.json').read_text(encoding='utf-8'))
-    assert manifest['dirty'] is False and manifest['mode'] == 'preview'
-    for relative, expected in manifest['files'].items():
-        target = (folder / relative).resolve()
-        assert target.is_relative_to(folder.resolve()) and not target.is_symlink(), relative
-        data = target.read_bytes()
-        assert len(data) == expected['bytes'] and hashlib.sha256(data).hexdigest() == expected['sha256'], relative
 manifest = json.loads((SITE / 'build.json').read_text(encoding='utf-8'))
+assert manifest['dirty'] is False and manifest['mode'] == 'preview' and manifest['framework'] == 'astro'
+assert manifest['basePath'] == '/elara-preview/'
+assert manifest['distribution']['sourceSha'] == manifest['commit']
+for relative, expected in manifest['files'].items():
+    target = SITE / relative
+    assert target.resolve().is_relative_to(SITE.resolve()) and not target.is_symlink(), relative
+    data = target.read_bytes()
+    assert len(data) == expected['bytes'] and hashlib.sha256(data).hexdigest() == expected['sha256'], relative
 expected = set(manifest['files']) | {'build.json', '.nojekyll'}
 actual = {p.relative_to(SITE).as_posix() for p in SITE.rglob('*') if p.is_file()}
 assert actual == expected, actual ^ expected
-child = json.loads((SITE / 'porqueelaraimg/build.json').read_text(encoding='utf-8'))
-assert child['entry']['sourceCommit'] == child['commit']
-assert child['entry']['anchor'] == 'prova'
-assert manifest['commit'] == child['commit']
 root_html = (SITE / 'index.html').read_text(encoding='utf-8')
 child_html = (SITE / 'porqueelaraimg/index.html').read_text(encoding='utf-8')
-entry = '<script type="module" src="image-review-entry.js"></script>'
-assert entry not in root_html
-assert child_html == root_html.replace('</body>', entry+'</body>')
-for folder in [SITE, SITE / 'porqueelaraimg']:
-    for name in ['obrigada.html', '404.html']:
-        html = (folder / name).read_text(encoding='utf-8')
-        assert 'noindex, nofollow' in html and '<script' not in html and '<form' not in html
-        assert 'https://wa.me/557191026649' in html
-    assert '/elara-preview/assets/' in (folder / '404.html').read_text(encoding='utf-8')
+assert 'noindex, nofollow' in root_html and '<astro-island' in root_html
+assert 'url=../#prova' in child_html and 'noindex' in child_html
+assert 'image-review-entry.js' not in root_html
+assert '/elara-preview/_astro/' in root_html and '="/_astro/' not in root_html
+for name in ['obrigada.html', '404.html']:
+    html = (SITE / name).read_text(encoding='utf-8')
+    assert 'noindex, nofollow' in html and '<script' not in html and '<form' not in html
+    assert 'https://wa.me/557191026649' in html
+assert '/elara-preview/assets/' in (SITE / '404.html').read_text(encoding='utf-8')
+assert not any(name.startswith('editor/') or 'photo-choices' in name for name in manifest['files'])
 assert '2026-11-24T23:59:00-03:00' in root_html
 assert 'encontros-presenciais-grupo-original-' in root_html
 assert root_html.count('href="https://pay.kiwify.com.br/M5pqPmr"') == 6
@@ -42,4 +38,4 @@ for filename in ['card01-opcao-05-', 'card02-opcao-01-', 'card03-opcao-04-']:
 for removed in ['data-photo-choices', 'data-photo-option', 'data-photo-status', 'logic-photo-choices__switch']:
     assert removed not in root_html
 assert root_html.count('logic-card__thumb-header--approved') == 3
-print('Home e comparação equivalentes e íntegras; fonte:', child['commit'])
+print('Astro home, support pages and legacy redirect verified; source:', manifest['commit'])
